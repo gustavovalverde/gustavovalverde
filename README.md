@@ -1,7 +1,7 @@
 # Hello there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavovalverde.gustavovalverde)
 [![Linkedin Badge](https://img.shields.io/badge/-gustavovalverde-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavovalverde/)](https://www.linkedin.com/in/gustavovalverde/)
-[![Twitter Badge](https://img.shields.io/badge/-@gustavovalverde-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavovalverde)](https://twitter.com/gustavovalverde)
+[![Twitter Badge](https://img.shields.io/badge/-@gustavovalverde-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavovalverde)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgustavovalverder&screen_name=gustavovalverde)
 [![Medium Badge](https://img.shields.io/badge/-@gustavo_valverde-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@gustavo_valverde)](https://medium.com/@gustavo_valverde)
 [![Gmail Badge](https://img.shields.io/badge/-gvalverde02-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gvalverde02@gmail.com)](mailto:gvalverde02@gmail.com)
 
@@ -25,6 +25,7 @@ class SoftwareEngineer:
 
 me = SoftwareEngineer()
 me.say_hi()
+
 ```
 
 ## 🗂️ OpenSource Projects
