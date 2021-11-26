@@ -16,11 +16,11 @@ class SoftwareEngineer:
         self.name = "Gustavo Valverde"
         self.roles = ["Solutions Architect", "DevOps Engineer", "Product Manager"]
         self.spoken_languages = ["es_ES", "en_US"]
-        self.skills = ["DevOps", "Cloud Architecture", "Python", "API Design", "Kubernetes", "Software Engineering", "Microservices"]
+        self.main_skills = ["DevOps", "Cloud Architecture", "API Design", "Management"]
 
-
-    def say_hi(self):
-        print("Welcome to my profile! I'm a Solution-driven engineer with 10+ years of experience.")
+    @classmethod
+    def say_hi(cls):
+        print("Welcome to my profile! I'm a software engineer passionate about open-source.")
 
 
 me = SoftwareEngineer()
