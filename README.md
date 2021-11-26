@@ -1,4 +1,5 @@
-# Hello there 👋
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavovalverde.gustavovalverde)
 [![Linkedin Badge](https://img.shields.io/badge/-gustavovalverde-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavovalverde/)](https://www.linkedin.com/in/gustavovalverde/)
 [![Twitter Badge](https://img.shields.io/badge/-@gustavovalverde-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavovalverde)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgustavovalverder&screen_name=gustavovalverde)
