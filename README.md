@@ -14,9 +14,10 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Gustavo Valverde"
-        self.roles = ["Solutions Architect", "DevOps Engineer", "Product Manager"]
         self.spoken_languages = ["es_ES", "en_US"]
+        self.roles = ["Solutions Architect", "DevOps Engineer", "Product Manager"]
         self.main_skills = ["DevOps", "Cloud Architecture", "API Design", "Management"]
+        self.architectures = ["SPA", "MVC", "Serverless", "Microservices"]
 
     @classmethod
     def say_hi(cls):
