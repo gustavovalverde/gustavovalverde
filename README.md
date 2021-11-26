@@ -51,14 +51,14 @@ me.say_hi()
 ![](https://img.shields.io/badge/-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=1793D1)
 ![](https://img.shields.io/badge/-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/-MacOS-informational?style=flat&logo=macos&logoColor=white&color=000000)
-
+<br>
 **Programming Languages**<br>
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/-GNU_Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=43853d)
 ![](https://img.shields.io/badge/-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=000000)
-
+<br>
 **Frameworks and Libraries**<br>
 ![](https://img.shields.io/badge/-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=EA2845)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
@@ -66,14 +66,14 @@ me.say_hi()
 ![](https://img.shields.io/badge/-Odoo-informational?style=flat&logo=odoo&logoColor=white&color=714B67)
 ![](https://img.shields.io/badge/-Material-informational?style=flat&logo=material-design&logoColor=white&color=757575)
 ![](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
-
+<br>
 **Hosting**<br>
 ![](https://img.shields.io/badge/-Google_Cloud_Platform-informational?style=flat&logo=google-cloud&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/-OVH-informational?style=flat&logo=ovh&logoColor=white&color=123F6D)
 ![](https://img.shields.io/badge/-Amazon_Web_Services-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 ![](https://img.shields.io/badge/-Github_Pages-informational?style=flat&logo=github&logoColor=white&color=222222)
 ![](https://img.shields.io/badge/-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000)
-
+<br>
 **DevOps Tools**<br>
 ![](https://img.shields.io/badge/-Jenkins-informational?style=flat&logo=jenkins&color=D24939)
 ![](https://img.shields.io/badge/-Gitlab-informational?style=flat&logo=gitlab&color=FCA121)
@@ -81,7 +81,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/-Github_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF)
 ![](https://img.shields.io/badge/-Travis_CI-informational?style=flat&logo=travis-ci&logoColor=white&color=3EAAAF)
 ![](https://img.shields.io/badge/-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=7B42BC)
-
+<br>
 **Software and Tools**<br>
 ![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
