@@ -52,4 +52,4 @@ jobs:
       - name: Markdown links check
         uses: ruzickap/action-my-markdown-link-checker@v1
         with:
-          config_file: config/mlc_config.json
+          config_file: config/.mlc_config.json
