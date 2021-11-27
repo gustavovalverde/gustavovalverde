@@ -1,6 +1,5 @@
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavovalverde.gustavovalverde)
 [![Linkedin Badge](https://img.shields.io/badge/-gustavovalverde-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavovalverde/)](https://www.linkedin.com/in/gustavovalverde/)
 [![Twitter Badge](https://img.shields.io/badge/-@gustavovalverde-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavovalverde)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgustavovalverder&screen_name=gustavovalverde)
 [![Medium Badge](https://img.shields.io/badge/-@gustavo_valverde-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@gustavo_valverde)](https://medium.com/@gustavo_valverde)
@@ -119,9 +118,22 @@ me.say_hi()
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
+
 ---
+
 <div align="center">
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavovalverde.gustavovalverde)
+[![Linting](https://github.com/gustavovalverde/gustavovalverde/actions/workflows/lint.yaml/badge.svg)](https://github.com/gustavovalverde/gustavovalverde/actions/workflows/lint.yaml)
+[![Spellcheck](https://github.com/gustavovalverde/gustavovalverde/actions/workflows/spellcheck.yaml/badge.svg)](https://github.com/gustavovalverde/gustavovalverde/actions/workflows/spellcheck.yaml)
+[![GitHub Activity](https://github.com/gustavovalverde/gustavovalverde/actions/workflows/update-activity.yaml/badge.svg)](https://github.com/gustavovalverde/gustavovalverde/actions/workflows/update-activity.yaml)
 
+<br>
+
+<a href = "https://github.com/gustavovalverde/gustavovalverde/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo = gustavovalverde/gustavovalverde"/>
+</a>
+
+Made with ![contributors-img](https://contrib.rocks)
 
 </div>
