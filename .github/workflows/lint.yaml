@@ -42,7 +42,7 @@ jobs:
     - name: Run markdownlint-cli
       uses: actionshub/markdownlint@main
       with:
-        filesToIgnoreRegex: "node_modules\\/.*"
+        filesToIgnoreRegex: "config\\/.*"
 
   link-check:
     name: Broken links check
