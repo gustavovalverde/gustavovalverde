@@ -113,9 +113,15 @@ me.say_hi()
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
 <div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 </details>
+---
+<div align="center">
+
+
+
+</div>
