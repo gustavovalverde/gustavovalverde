@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: '0 0 * * MON,THU' # twice a week
   workflow_dispatch:
-  push:
 
 jobs:
   build:
