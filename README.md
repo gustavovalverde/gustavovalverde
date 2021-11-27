@@ -116,6 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#2](https://github.com/gustavovalverde/gustavovalverde/pull/2) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+2. 💪 Opened PR [#2](https://github.com/gustavovalverde/gustavovalverde/pull/2) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+3. 🎉 Merged PR [#1](https://github.com/gustavovalverde/gustavovalverde/pull/1) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+4. 💪 Opened PR [#1](https://github.com/gustavovalverde/gustavovalverde/pull/1) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+5. 💪 Opened PR [#17](https://github.com/opticrd/facial-auth-api/pull/17) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+6. 🎉 Merged PR [#16](https://github.com/opticrd/facial-auth-api/pull/16) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+7. 💪 Opened PR [#16](https://github.com/opticrd/facial-auth-api/pull/16) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+8. 💪 Opened PR [#14](https://github.com/opticrd/facial-auth-api/pull/14) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+9. 🎉 Merged PR [#13](https://github.com/opticrd/facial-auth-api/pull/13) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+10. 💪 Opened PR [#13](https://github.com/opticrd/facial-auth-api/pull/13) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
 <!--END_SECTION:activity-->
 </details>
 
