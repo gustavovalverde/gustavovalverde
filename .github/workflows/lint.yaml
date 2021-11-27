@@ -18,6 +18,7 @@ on:
 
 jobs:
   lint:
+    name: Linting checks
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -44,7 +45,7 @@ jobs:
         filesToIgnoreRegex: "node_modules\\/.*"
 
   link-check:
-    name: Check markdown files
+    name: Broken links check
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
