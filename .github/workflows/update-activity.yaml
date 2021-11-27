@@ -1,0 +1,22 @@
+name: Update GitHub activity
+
+on:
+  schedule:
+    - cron: '0 0 * * MON,THU' # twice a week
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Update README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'docs: update GH activity up to ${{ steps.date.outputs.date }}'
+          MAX_LINES: 10

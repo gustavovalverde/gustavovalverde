@@ -1,0 +1,56 @@
+name: Lint Markdown files
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # once a week
+  push:
+    branches:
+      - main
+    paths:
+      - '**.md'
+      - '.github/workflows/lint.yaml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**.md'
+      - '.github/workflows/lint.yaml'
+
+jobs:
+  lint:
+    name: Linting checks
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: tomwhross/write-good-action@v1.5
+      id: write-good
+
+    # Use the output from the `write-good` step
+    - name: Get the write-good output
+      run: echo "${{ steps.write-good.outputs.result }}"
+
+    - name: Post comment
+      uses: mshick/add-pr-comment@v1
+      if: ${{ steps.write-good.outputs.result }}
+      with:
+        message: |
+          ${{ steps.write-good.outputs.result }}
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
+        allow-repeats: false # This is the default
+
+    - name: Run markdownlint-cli
+      uses: actionshub/markdownlint@main
+      with:
+        filesToIgnoreRegex: "config\\/.*"
+
+  link-check:
+    name: Broken links check
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Markdown links check
+        uses: ruzickap/action-my-markdown-link-checker@v1
+        with:
+          config_file: config/.mlc_config.json

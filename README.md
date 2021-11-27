@@ -1,4 +1,5 @@
-# Hello there 👋
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gustavovalverde.gustavovalverde)
 [![Linkedin Badge](https://img.shields.io/badge/-gustavovalverde-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavovalverde/)](https://www.linkedin.com/in/gustavovalverde/)
 [![Twitter Badge](https://img.shields.io/badge/-@gustavovalverde-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gustavovalverde)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fgustavovalverder&screen_name=gustavovalverde)
@@ -14,9 +15,10 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Gustavo Valverde"
-        self.roles = ["Solutions Architect", "DevOps Engineer", "Product Manager"]
         self.spoken_languages = ["es_ES", "en_US"]
+        self.roles = ["Solutions Architect", "DevOps Engineer", "Product Manager"]
         self.main_skills = ["DevOps", "Cloud Architecture", "API Design", "Management"]
+        self.architectures = ["SPA", "MVC", "Serverless", "Microservices"]
 
     @classmethod
     def say_hi(cls):
@@ -29,6 +31,7 @@ me.say_hi()
 ```
 
 ## 🗂️ OpenSource Projects
+
 <a href="https://github.com/indexa-git/l10n-dominicana">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=indexa-git&repo=l10n-dominicana&show_icons=true" alt="l10n-dominicana" />
 </a>
@@ -46,6 +49,7 @@ me.say_hi()
 </a>
 
 ## 🔧 Favorite Technologies & Tools
+
 **Operating Systems**<br>
 ![](https://img.shields.io/badge/-Debian-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
@@ -90,6 +94,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=gustavovalverde&theme=flat&&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -112,5 +117,5 @@ me.say_hi()
 <div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
-</details>
 <!--END_SECTION:activity-->
+</details>
