@@ -31,6 +31,7 @@ me.say_hi()
 ```
 
 ## 🗂️ OpenSource Projects
+
 <a href="https://github.com/indexa-git/l10n-dominicana">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=indexa-git&repo=l10n-dominicana&show_icons=true" alt="l10n-dominicana" />
 </a>
@@ -48,6 +49,7 @@ me.say_hi()
 </a>
 
 ## 🔧 Favorite Technologies & Tools
+
 **Operating Systems**<br>
 ![](https://img.shields.io/badge/-Debian-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
@@ -92,6 +94,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 
 ## 📊 GitHub Stats
+
 <div align="center">
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=gustavovalverde&theme=flat&&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
