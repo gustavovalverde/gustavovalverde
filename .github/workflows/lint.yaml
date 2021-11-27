@@ -1,6 +1,8 @@
 name: Lint Markdown files
 
 on:
+  schedule:
+    - cron: '0 0 * * 0' # once a week
   push:
     branches:
       - main
