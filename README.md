@@ -141,9 +141,9 @@ me.say_hi()
 <br>
 
 <a href = "https://github.com/gustavovalverde/gustavovalverde/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = gustavovalverde/gustavovalverde"/>
+<img src = "https://contrib.rocks/image?repo=gustavovalverde/gustavovalverde"/>
 </a>
 
-Made with ![contributors-img](https://contrib.rocks)
+**Contribute to this repo and get shown here**
 
 </div>
