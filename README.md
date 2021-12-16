@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/opticrd/inspector-dashboard-frontend/pull/22) in [opticrd/inspector-dashboard-frontend](https://github.com/opticrd/inspector-dashboard-frontend)
-2. 🎉 Merged PR [#2](https://github.com/gustavovalverde/gustavovalverde/pull/2) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
-3. 💪 Opened PR [#2](https://github.com/gustavovalverde/gustavovalverde/pull/2) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
-4. 🎉 Merged PR [#1](https://github.com/gustavovalverde/gustavovalverde/pull/1) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
-5. 💪 Opened PR [#1](https://github.com/gustavovalverde/gustavovalverde/pull/1) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
-6. 💪 Opened PR [#17](https://github.com/opticrd/facial-auth-api/pull/17) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
-7. 🎉 Merged PR [#16](https://github.com/opticrd/facial-auth-api/pull/16) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
-8. 💪 Opened PR [#16](https://github.com/opticrd/facial-auth-api/pull/16) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
-9. 💪 Opened PR [#14](https://github.com/opticrd/facial-auth-api/pull/14) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
-10. 🎉 Merged PR [#13](https://github.com/opticrd/facial-auth-api/pull/13) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+1. 🗣 Commented on [#3201](https://github.com/ZcashFoundation/zebra/issues/3201) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#3201](https://github.com/ZcashFoundation/zebra/issues/3201) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#3201](https://github.com/ZcashFoundation/zebra/issues/3201) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 💪 Opened PR [#22](https://github.com/opticrd/inspector-dashboard-frontend/pull/22) in [opticrd/inspector-dashboard-frontend](https://github.com/opticrd/inspector-dashboard-frontend)
+5. 🎉 Merged PR [#2](https://github.com/gustavovalverde/gustavovalverde/pull/2) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+6. 💪 Opened PR [#2](https://github.com/gustavovalverde/gustavovalverde/pull/2) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+7. 🎉 Merged PR [#1](https://github.com/gustavovalverde/gustavovalverde/pull/1) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+8. 💪 Opened PR [#1](https://github.com/gustavovalverde/gustavovalverde/pull/1) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+9. 💪 Opened PR [#17](https://github.com/opticrd/facial-auth-api/pull/17) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+10. 🎉 Merged PR [#16](https://github.com/opticrd/facial-auth-api/pull/16) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
 <!--END_SECTION:activity-->
 </details>
 
