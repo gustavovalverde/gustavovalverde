@@ -19,7 +19,7 @@ jobs:
     name: Check spelling on Markdown
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - uses: rojopolis/spellcheck-github-actions@0.17.0
       name: Spellcheck
       continue-on-error: true
