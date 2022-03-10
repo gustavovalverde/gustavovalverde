@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1592](https://github.com/ZcashFoundation/zebra/issues/1592) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#1592](https://github.com/ZcashFoundation/zebra/issues/1592) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. ❗️ Closed issue [#3673](https://github.com/ZcashFoundation/zebra/issues/3673) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#3673](https://github.com/ZcashFoundation/zebra/issues/3673) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🗣 Commented on [#3647](https://github.com/ZcashFoundation/zebra/issues/3647) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 🎉 Merged PR [#3749](https://github.com/ZcashFoundation/zebra/pull/3749) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. ❗️ Closed issue [#128](https://github.com/iterativo-git/dockerdoo/issues/128) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-8. 🎉 Merged PR [#3743](https://github.com/ZcashFoundation/zebra/pull/3743) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🎉 Merged PR [#3744](https://github.com/ZcashFoundation/zebra/pull/3744) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 🎉 Merged PR [#3691](https://github.com/ZcashFoundation/zebra/pull/3691) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🎉 Merged PR [#3766](https://github.com/ZcashFoundation/zebra/pull/3766) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#303](https://github.com/google-github-actions/deploy-cloudrun/issues/303) in [google-github-actions/deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun)
+3. 🗣 Commented on [#303](https://github.com/google-github-actions/deploy-cloudrun/issues/303) in [google-github-actions/deploy-cloudrun](https://github.com/google-github-actions/deploy-cloudrun)
+4. 🗣 Commented on [#3766](https://github.com/ZcashFoundation/zebra/issues/3766) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. ❗️ Closed issue [#85](https://github.com/rlespinasse/github-slug-action/issues/85) in [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action)
+6. 🗣 Commented on [#85](https://github.com/rlespinasse/github-slug-action/issues/85) in [rlespinasse/github-slug-action](https://github.com/rlespinasse/github-slug-action)
+7. 🗣 Commented on [#3766](https://github.com/ZcashFoundation/zebra/issues/3766) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 🗣 Commented on [#3766](https://github.com/ZcashFoundation/zebra/issues/3766) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 🗣 Commented on [#3766](https://github.com/ZcashFoundation/zebra/issues/3766) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. 💪 Opened PR [#3794](https://github.com/ZcashFoundation/zebra/pull/3794) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 </details>
 
