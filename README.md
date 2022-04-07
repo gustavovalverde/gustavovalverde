@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3998](https://github.com/ZcashFoundation/zebra/issues/3998) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#3940](https://github.com/ZcashFoundation/zebra/issues/3940) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🗣 Commented on [#3996](https://github.com/ZcashFoundation/zebra/issues/3996) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 💪 Opened PR [#3996](https://github.com/ZcashFoundation/zebra/pull/3996) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. ❗️ Opened issue [#3995](https://github.com/ZcashFoundation/zebra/issues/3995) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 🗣 Commented on [#3986](https://github.com/ZcashFoundation/zebra/issues/3986) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 💪 Opened PR [#3968](https://github.com/ZcashFoundation/zebra/pull/3968) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#128](https://github.com/iterativo-git/dockerdoo/issues/128) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-9. 🎉 Merged PR [#146](https://github.com/iterativo-git/dockerdoo/pull/146) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-10. 🗣 Commented on [#3957](https://github.com/ZcashFoundation/zebra/issues/3957) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🎉 Merged PR [#3986](https://github.com/ZcashFoundation/zebra/pull/3986) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. ❗️ Closed issue [#3545](https://github.com/ZcashFoundation/zebra/issues/3545) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#26](https://github.com/opticrd/grp-odoo-modules/issues/26) in [opticrd/grp-odoo-modules](https://github.com/opticrd/grp-odoo-modules)
+4. 🗣 Commented on [#35](https://github.com/opticrd/grp-odoo-modules/issues/35) in [opticrd/grp-odoo-modules](https://github.com/opticrd/grp-odoo-modules)
+5. 🗣 Commented on [#34](https://github.com/opticrd/grp-odoo-modules/issues/34) in [opticrd/grp-odoo-modules](https://github.com/opticrd/grp-odoo-modules)
+6. 🗣 Commented on [#26](https://github.com/opticrd/grp-odoo-modules/issues/26) in [opticrd/grp-odoo-modules](https://github.com/opticrd/grp-odoo-modules)
+7. 🗣 Commented on [#34](https://github.com/opticrd/grp-odoo-modules/issues/34) in [opticrd/grp-odoo-modules](https://github.com/opticrd/grp-odoo-modules)
+8. 🗣 Commented on [#35](https://github.com/opticrd/grp-odoo-modules/issues/35) in [opticrd/grp-odoo-modules](https://github.com/opticrd/grp-odoo-modules)
+9. 🗣 Commented on [#36](https://github.com/opticrd/grp-odoo-modules/issues/36) in [opticrd/grp-odoo-modules](https://github.com/opticrd/grp-odoo-modules)
+10. 🗣 Commented on [#3940](https://github.com/ZcashFoundation/zebra/issues/3940) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 </details>
 
