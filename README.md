@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4223](https://github.com/ZcashFoundation/zebra/issues/4223) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 💪 Opened PR [#4223](https://github.com/ZcashFoundation/zebra/pull/4223) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🎉 Merged PR [#155](https://github.com/indexa-git/external-service-addons/pull/155) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-4. ❌ Reopened PR [#155](https://github.com/indexa-git/external-service-addons/pull/155) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-5. ❌ Closed PR [#155](https://github.com/indexa-git/external-service-addons/pull/155) in [indexa-git/external-service-addons](https://github.com/indexa-git/external-service-addons)
-6. ❌ Closed PR [#951](https://github.com/indexa-git/l10n-dominicana/pull/951) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-7. ❌ Closed PR [#951](https://github.com/indexa-git/l10n-dominicana/pull/951) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-8. ❗️ Closed issue [#946](https://github.com/indexa-git/l10n-dominicana/issues/946) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-9. 🎉 Merged PR [#953](https://github.com/indexa-git/l10n-dominicana/pull/953) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
-10. 🎉 Merged PR [#952](https://github.com/indexa-git/l10n-dominicana/pull/952) in [indexa-git/l10n-dominicana](https://github.com/indexa-git/l10n-dominicana)
+1. 🗣 Commented on [#4255](https://github.com/ZcashFoundation/zebra/issues/4255) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#4223](https://github.com/ZcashFoundation/zebra/issues/4223) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 💪 Opened PR [#4255](https://github.com/ZcashFoundation/zebra/pull/4255) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 💪 Opened PR [#4254](https://github.com/ZcashFoundation/zebra/pull/4254) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🗣 Commented on [#603](https://github.com/docker/build-push-action/issues/603) in [docker/build-push-action](https://github.com/docker/build-push-action)
+6. 💪 Opened PR [#4252](https://github.com/ZcashFoundation/zebra/pull/4252) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 🗣 Commented on [#4114](https://github.com/ZcashFoundation/zebra/issues/4114) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 🗣 Commented on [#4114](https://github.com/ZcashFoundation/zebra/issues/4114) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 🗣 Commented on [#4234](https://github.com/ZcashFoundation/zebra/issues/4234) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. 🗣 Commented on [#160](https://github.com/google-github-actions/auth/issues/160) in [google-github-actions/auth](https://github.com/google-github-actions/auth)
 <!--END_SECTION:activity-->
 </details>
 
