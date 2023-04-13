@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6364](https://github.com/ZcashFoundation/zebra/issues/6364) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#6357](https://github.com/ZcashFoundation/zebra/issues/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 💪 Opened PR [#6357](https://github.com/ZcashFoundation/zebra/pull/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. ❗️ Opened issue [#6312](https://github.com/ZcashFoundation/zebra/issues/6312) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. ❗️ Closed issue [#6](https://github.com/ZcashFoundation/infra/issues/6) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-6. 🗣 Commented on [#785](https://github.com/GluuFederation/flex/issues/785) in [GluuFederation/flex](https://github.com/GluuFederation/flex)
+1. 🗣 Commented on [#6357](https://github.com/ZcashFoundation/zebra/issues/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#6364](https://github.com/ZcashFoundation/zebra/issues/6364) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#6357](https://github.com/ZcashFoundation/zebra/issues/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 💪 Opened PR [#6357](https://github.com/ZcashFoundation/zebra/pull/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. ❗️ Opened issue [#6312](https://github.com/ZcashFoundation/zebra/issues/6312) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. ❗️ Closed issue [#6](https://github.com/ZcashFoundation/infra/issues/6) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
 7. 🗣 Commented on [#785](https://github.com/GluuFederation/flex/issues/785) in [GluuFederation/flex](https://github.com/GluuFederation/flex)
 8. 🗣 Commented on [#785](https://github.com/GluuFederation/flex/issues/785) in [GluuFederation/flex](https://github.com/GluuFederation/flex)
 9. 🗣 Commented on [#785](https://github.com/GluuFederation/flex/issues/785) in [GluuFederation/flex](https://github.com/GluuFederation/flex)
-10. ❗️ Opened issue [#785](https://github.com/GluuFederation/flex/issues/785) in [GluuFederation/flex](https://github.com/GluuFederation/flex)
+10. 🗣 Commented on [#785](https://github.com/GluuFederation/flex/issues/785) in [GluuFederation/flex](https://github.com/GluuFederation/flex)
 <!--END_SECTION:activity-->
 </details>
 
