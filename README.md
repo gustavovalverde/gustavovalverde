@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6544](https://github.com/ZcashFoundation/zebra/issues/6544) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#6357](https://github.com/ZcashFoundation/zebra/issues/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🗣 Commented on [#6357](https://github.com/ZcashFoundation/zebra/issues/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#6364](https://github.com/ZcashFoundation/zebra/issues/6364) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🎉 Merged PR [#33](https://github.com/opticrd/facial-auth-api/pull/33) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+2. 💪 Opened PR [#33](https://github.com/opticrd/facial-auth-api/pull/33) in [opticrd/facial-auth-api](https://github.com/opticrd/facial-auth-api)
+3. 🗣 Commented on [#6544](https://github.com/ZcashFoundation/zebra/issues/6544) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🗣 Commented on [#6357](https://github.com/ZcashFoundation/zebra/issues/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 5. 🗣 Commented on [#6357](https://github.com/ZcashFoundation/zebra/issues/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 💪 Opened PR [#6357](https://github.com/ZcashFoundation/zebra/pull/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. ❗️ Opened issue [#6312](https://github.com/ZcashFoundation/zebra/issues/6312) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. ❗️ Closed issue [#6](https://github.com/ZcashFoundation/infra/issues/6) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-9. 🗣 Commented on [#785](https://github.com/GluuFederation/flex/issues/785) in [GluuFederation/flex](https://github.com/GluuFederation/flex)
-10. 🗣 Commented on [#785](https://github.com/GluuFederation/flex/issues/785) in [GluuFederation/flex](https://github.com/GluuFederation/flex)
+6. 🗣 Commented on [#6364](https://github.com/ZcashFoundation/zebra/issues/6364) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 🗣 Commented on [#6357](https://github.com/ZcashFoundation/zebra/issues/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 💪 Opened PR [#6357](https://github.com/ZcashFoundation/zebra/pull/6357) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. ❗️ Opened issue [#6312](https://github.com/ZcashFoundation/zebra/issues/6312) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. ❗️ Closed issue [#6](https://github.com/ZcashFoundation/infra/issues/6) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
 <!--END_SECTION:activity-->
 </details>
 
