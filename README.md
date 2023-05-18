@@ -116,15 +116,15 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3875](https://github.com/aws-amplify/amplify-ui/issues/3875) in [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui)
-2. 🗣 Commented on [#3500](https://github.com/super-linter/super-linter/issues/3500) in [super-linter/super-linter](https://github.com/super-linter/super-linter)
-3. 🗣 Commented on [#6640](https://github.com/ZcashFoundation/zebra/issues/6640) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#6654](https://github.com/ZcashFoundation/zebra/issues/6654) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🗣 Commented on [#6655](https://github.com/ZcashFoundation/zebra/issues/6655) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 🗣 Commented on [#6621](https://github.com/ZcashFoundation/zebra/issues/6621) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 🗣 Commented on [#6653](https://github.com/ZcashFoundation/zebra/issues/6653) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#6639](https://github.com/ZcashFoundation/zebra/issues/6639) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🗣 Commented on [#6653](https://github.com/ZcashFoundation/zebra/issues/6653) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 💪 Opened PR [#6710](https://github.com/ZcashFoundation/zebra/pull/6710) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. ❗️ Opened issue [#3875](https://github.com/aws-amplify/amplify-ui/issues/3875) in [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui)
+3. 🗣 Commented on [#3500](https://github.com/super-linter/super-linter/issues/3500) in [super-linter/super-linter](https://github.com/super-linter/super-linter)
+4. 🗣 Commented on [#6640](https://github.com/ZcashFoundation/zebra/issues/6640) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🗣 Commented on [#6654](https://github.com/ZcashFoundation/zebra/issues/6654) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 🗣 Commented on [#6655](https://github.com/ZcashFoundation/zebra/issues/6655) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 🗣 Commented on [#6621](https://github.com/ZcashFoundation/zebra/issues/6621) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 🗣 Commented on [#6653](https://github.com/ZcashFoundation/zebra/issues/6653) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 🗣 Commented on [#6639](https://github.com/ZcashFoundation/zebra/issues/6639) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 10. 🗣 Commented on [#6653](https://github.com/ZcashFoundation/zebra/issues/6653) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 </details>
