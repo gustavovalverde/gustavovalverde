@@ -117,15 +117,15 @@ me.say_hi()
 </div>
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6798](https://github.com/ZcashFoundation/zebra/issues/6798) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#6740](https://github.com/ZcashFoundation/zebra/issues/6740) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🗣 Commented on [#6762](https://github.com/ZcashFoundation/zebra/issues/6762) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#1601](https://github.com/aztfmod/terraform-azurerm-caf/issues/1601) in [aztfmod/terraform-azurerm-caf](https://github.com/aztfmod/terraform-azurerm-caf)
-5. 🗣 Commented on [#1392](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/issues/1392) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
-6. ❗ Opened issue [#1392](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/issues/1392) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
-7. 🗣 Commented on [#1391](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/issues/1391) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
-8. 💪 Opened PR [#1391](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/pull/1391) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
-9. 🗣 Commented on [#1385](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/issues/1385) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
-10. 🗣 Commented on [#6710](https://github.com/ZcashFoundation/zebra/issues/6710) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#6798](https://github.com/ZcashFoundation/zebra/issues/6798) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#6740](https://github.com/ZcashFoundation/zebra/issues/6740) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🗣 Commented on [#6762](https://github.com/ZcashFoundation/zebra/issues/6762) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🗣 Commented on [#1601](https://github.com/aztfmod/terraform-azurerm-caf/issues/1601) in [aztfmod/terraform-azurerm-caf](https://github.com/aztfmod/terraform-azurerm-caf)
+6. 🗣 Commented on [#1392](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/issues/1392) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
+7. ❗ Opened issue [#1392](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/issues/1392) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
+8. 🗣 Commented on [#1391](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/issues/1391) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
+9. 💪 Opened PR [#1391](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/pull/1391) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
+10. 🗣 Commented on [#1385](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric/issues/1385) in [GoogleCloudPlatform/cloud-foundation-fabric](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
 <!--END_SECTION:activity-->
 </details>
 
