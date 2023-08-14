@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7313](https://github.com/ZcashFoundation/zebra/pull/7313) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#4316](https://github.com/aws-amplify/amplify-ui/issues/4316#issuecomment-1669901153) in [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui)
-3. 💪 Opened PR [#7303](https://github.com/ZcashFoundation/zebra/pull/7303) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#4316](https://github.com/aws-amplify/amplify-ui/issues/4316#issuecomment-1665200847) in [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui)
-5. ❗ Opened issue [#4316](https://github.com/aws-amplify/amplify-ui/issues/4316) in [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui)
-6. 🗣 Commented on [#3862](https://github.com/aws-amplify/amplify-ui/pull/3862#issuecomment-1663505963) in [aws-amplify/amplify-ui](https://github.com/aws-amplify/amplify-ui)
-7. 🗣 Commented on [#7231](https://github.com/ZcashFoundation/zebra/pull/7231#issuecomment-1650395695) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#7179](https://github.com/ZcashFoundation/zebra/pull/7179#issuecomment-1649802208) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🗣 Commented on [#7179](https://github.com/ZcashFoundation/zebra/pull/7179#issuecomment-1648151725) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 🗣 Commented on [#7231](https://github.com/ZcashFoundation/zebra/pull/7231#issuecomment-1647754943) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🎉 Merged PR [#78](https://github.com/opticrd/cuenta-unica-registry/pull/78) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+2. 🔒 Closed issue [#42](https://github.com/opticrd/cuenta-unica-registry/issues/42) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+3. 🗣 Commented on [#42](https://github.com/opticrd/cuenta-unica-registry/issues/42#issuecomment-1676046777) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+4. 🔒 Closed issue [#43](https://github.com/opticrd/cuenta-unica-registry/issues/43) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+5. 🗣 Commented on [#43](https://github.com/opticrd/cuenta-unica-registry/issues/43#issuecomment-1676039269) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+6. 🚀 Published release [v0.2.1-beta](https://github.com/opticrd/cuenta-unica-registry/releases/tag/v0.2.1-beta) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+7. 🎉 Merged PR [#77](https://github.com/opticrd/cuenta-unica-registry/pull/77) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+8. 💪 Opened PR [#77](https://github.com/opticrd/cuenta-unica-registry/pull/77) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+9. ❌ Closed PR [#76](https://github.com/opticrd/cuenta-unica-registry/pull/76) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+10. 💪 Opened PR [#76](https://github.com/opticrd/cuenta-unica-registry/pull/76) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
 <!--END_SECTION:activity-->
 </details>
 
