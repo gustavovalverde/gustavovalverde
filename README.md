@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6168](https://github.com/ZcashFoundation/zebra/issues/6168#issuecomment-1683609877) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🚀 Published release [v0.2.2-beta](https://github.com/opticrd/cuenta-unica-registry/releases/tag/v0.2.2-beta) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
-3. 💪 Opened PR [#82](https://github.com/opticrd/cuenta-unica-registry/pull/82) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
-4. 🗣 Commented on [#7339](https://github.com/ZcashFoundation/zebra/pull/7339#issuecomment-1683095029) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🎉 Merged PR [#81](https://github.com/opticrd/cuenta-unica-registry/pull/81) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
-6. 💪 Opened PR [#7339](https://github.com/ZcashFoundation/zebra/pull/7339) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 💪 Opened PR [#7338](https://github.com/ZcashFoundation/zebra/pull/7338) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#7327](https://github.com/ZcashFoundation/zebra/pull/7327#issuecomment-1680173492) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🗣 Commented on [#7326](https://github.com/ZcashFoundation/zebra/pull/7326#issuecomment-1680173151) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 🗣 Commented on [#7324](https://github.com/ZcashFoundation/zebra/pull/7324#issuecomment-1680172272) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🗣 Commented on [#6894](https://github.com/ZcashFoundation/zebra/issues/6894#issuecomment-1686944680) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#6422](https://github.com/ZcashFoundation/zebra/issues/6422#issuecomment-1686921674) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#6168](https://github.com/ZcashFoundation/zebra/issues/6168#issuecomment-1686882308) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🔒 Closed issue [#9](https://github.com/ZcashFoundation/infra/issues/9) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
+5. 🗣 Commented on [#9](https://github.com/ZcashFoundation/infra/issues/9#issuecomment-1686851772) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
+6. 🗣 Commented on [#6168](https://github.com/ZcashFoundation/zebra/issues/6168#issuecomment-1683609877) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 🚀 Published release [v0.2.2-beta](https://github.com/opticrd/cuenta-unica-registry/releases/tag/v0.2.2-beta) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+8. 💪 Opened PR [#82](https://github.com/opticrd/cuenta-unica-registry/pull/82) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
+9. 🗣 Commented on [#7339](https://github.com/ZcashFoundation/zebra/pull/7339#issuecomment-1683095029) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. 🎉 Merged PR [#81](https://github.com/opticrd/cuenta-unica-registry/pull/81) in [opticrd/cuenta-unica-registry](https://github.com/opticrd/cuenta-unica-registry)
 <!--END_SECTION:activity-->
 </details>
 
