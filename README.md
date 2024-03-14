@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/ZcashFoundation/zebra-app/pull/13) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
-2. 💪 Opened PR [#13](https://github.com/ZcashFoundation/zebra-app/pull/13) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
-3. 💪 Opened PR [#9](https://github.com/ZcashFoundation/zebra-app/pull/9) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
-4. 💪 Opened PR [#21](https://github.com/ZcashFoundation/coredns-zcash/pull/21) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
-5. 🚀 Published release [v0.2.4-beta](https://github.com/ZcashFoundation/dnsseeder/releases/tag/v0.2.4-beta) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
-6. 💪 Opened PR [#23](https://github.com/ZcashFoundation/dnsseeder/pull/23) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
-7. 🚀 Published release [v0.3.0-beta.1](https://github.com/ZcashFoundation/dnsseeder/releases/tag/v0.3.0-beta.1) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
-8. 🚀 Published release [v0.3.0-beta](https://github.com/ZcashFoundation/dnsseeder/releases/tag/v0.3.0-beta) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
-9. 💪 Opened PR [#22](https://github.com/ZcashFoundation/dnsseeder/pull/22) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
-10. 🗣 Commented on [#476](https://github.com/zcash/lightwalletd/pull/476#issuecomment-1964167478) in [zcash/lightwalletd](https://github.com/zcash/lightwalletd)
+1. 🗣 Commented on [#8342](https://github.com/ZcashFoundation/zebra/pull/8342#issuecomment-1994792803) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🎉 Merged PR [#13](https://github.com/ZcashFoundation/zebra-app/pull/13) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
+3. 💪 Opened PR [#13](https://github.com/ZcashFoundation/zebra-app/pull/13) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
+4. 💪 Opened PR [#9](https://github.com/ZcashFoundation/zebra-app/pull/9) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
+5. 💪 Opened PR [#21](https://github.com/ZcashFoundation/coredns-zcash/pull/21) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
+6. 🚀 Published release [v0.2.4-beta](https://github.com/ZcashFoundation/dnsseeder/releases/tag/v0.2.4-beta) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
+7. 💪 Opened PR [#23](https://github.com/ZcashFoundation/dnsseeder/pull/23) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
+8. 🚀 Published release [v0.3.0-beta.1](https://github.com/ZcashFoundation/dnsseeder/releases/tag/v0.3.0-beta.1) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
+9. 🚀 Published release [v0.3.0-beta](https://github.com/ZcashFoundation/dnsseeder/releases/tag/v0.3.0-beta) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
+10. 💪 Opened PR [#22](https://github.com/ZcashFoundation/dnsseeder/pull/22) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
 <!--END_SECTION:activity-->
 </details>
 
