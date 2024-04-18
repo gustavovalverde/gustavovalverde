@@ -116,16 +116,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8374](https://github.com/ZcashFoundation/zebra/pull/8374) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🔒 Closed issue [#20](https://github.com/ZcashFoundation/coredns-zcash/issues/20) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
-3. 🎉 Merged PR [#21](https://github.com/ZcashFoundation/coredns-zcash/pull/21) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
-4. 🗣 Commented on [#476](https://github.com/zcash/lightwalletd/pull/476#issuecomment-1997798467) in [zcash/lightwalletd](https://github.com/zcash/lightwalletd)
-5. 🗣 Commented on [#8342](https://github.com/ZcashFoundation/zebra/pull/8342#issuecomment-1994792803) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 🎉 Merged PR [#13](https://github.com/ZcashFoundation/zebra-app/pull/13) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
-7. 💪 Opened PR [#13](https://github.com/ZcashFoundation/zebra-app/pull/13) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
-8. 💪 Opened PR [#9](https://github.com/ZcashFoundation/zebra-app/pull/9) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
-9. 💪 Opened PR [#21](https://github.com/ZcashFoundation/coredns-zcash/pull/21) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
-10. 🚀 Published release [v0.2.4-beta](https://github.com/ZcashFoundation/dnsseeder/releases/tag/v0.2.4-beta) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
+1. 🗣 Commented on [#8400](https://github.com/ZcashFoundation/zebra/pull/8400#issuecomment-2057714655) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 💪 Opened PR [#22](https://github.com/ZcashFoundation/coredns-zcash/pull/22) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
+3. 💪 Opened PR [#8374](https://github.com/ZcashFoundation/zebra/pull/8374) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🔒 Closed issue [#20](https://github.com/ZcashFoundation/coredns-zcash/issues/20) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
+5. 🎉 Merged PR [#21](https://github.com/ZcashFoundation/coredns-zcash/pull/21) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
+6. 🗣 Commented on [#476](https://github.com/zcash/lightwalletd/pull/476#issuecomment-1997798467) in [zcash/lightwalletd](https://github.com/zcash/lightwalletd)
+7. 🗣 Commented on [#8342](https://github.com/ZcashFoundation/zebra/pull/8342#issuecomment-1994792803) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 🎉 Merged PR [#13](https://github.com/ZcashFoundation/zebra-app/pull/13) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
+9. 💪 Opened PR [#13](https://github.com/ZcashFoundation/zebra-app/pull/13) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
+10. 💪 Opened PR [#9](https://github.com/ZcashFoundation/zebra-app/pull/9) in [ZcashFoundation/zebra-app](https://github.com/ZcashFoundation/zebra-app)
 <!--END_SECTION:activity-->
 </details>
 
