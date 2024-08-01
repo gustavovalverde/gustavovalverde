@@ -120,16 +120,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/ZcashFoundation/infra/issues/17) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-2. 🎉 Merged PR [#2](https://github.com/ZcashFoundation/infra-monitoring-kuma/pull/2) in [ZcashFoundation/infra-monitoring-kuma](https://github.com/ZcashFoundation/infra-monitoring-kuma)
-3. 🗣 Commented on [#2](https://github.com/ZcashFoundation/infra-monitoring-kuma/pull/2#issuecomment-2232929751) in [ZcashFoundation/infra-monitoring-kuma](https://github.com/ZcashFoundation/infra-monitoring-kuma)
-4. 🗣 Commented on [#5](https://github.com/ZcashFoundation/infra/issues/5#issuecomment-2228828283) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-5. 🔒 Closed issue [#5](https://github.com/ZcashFoundation/infra/issues/5) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-6. 🗣 Commented on [#3](https://github.com/ZcashFoundation/infra/issues/3#issuecomment-2228827469) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-7. 🔒 Closed issue [#3](https://github.com/ZcashFoundation/infra/issues/3) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-8. 🗣 Commented on [#11](https://github.com/ZcashFoundation/infra/issues/11#issuecomment-2228823623) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-9. 🔒 Closed issue [#11](https://github.com/ZcashFoundation/infra/issues/11) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-10. 🗣 Commented on [#13](https://github.com/ZcashFoundation/infra/issues/13#issuecomment-2228820167) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
+1. 🗣 Commented on [#476](https://github.com/zcash/lightwalletd/pull/476#issuecomment-2260430231) in [zcash/lightwalletd](https://github.com/zcash/lightwalletd)
+2. 🗣 Commented on [#476](https://github.com/zcash/lightwalletd/pull/476#issuecomment-2256562566) in [zcash/lightwalletd](https://github.com/zcash/lightwalletd)
+3. 🚀 Published release [v1.0.0](https://github.com/ZcashFoundation/coredns-zcash/releases/tag/v1.0.0) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
+4. 🎉 Merged PR [#5](https://github.com/ZcashFoundation/infra-monitoring-kuma/pull/5) in [ZcashFoundation/infra-monitoring-kuma](https://github.com/ZcashFoundation/infra-monitoring-kuma)
+5. 🗣 Commented on [#17](https://github.com/ZcashFoundation/infra/issues/17#issuecomment-2256470185) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
+6. 🔒 Closed issue [#17](https://github.com/ZcashFoundation/infra/issues/17) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
+7. 🎉 Merged PR [#4](https://github.com/ZcashFoundation/infra-monitoring-kuma/pull/4) in [ZcashFoundation/infra-monitoring-kuma](https://github.com/ZcashFoundation/infra-monitoring-kuma)
+8. 🎉 Merged PR [#42](https://github.com/ZcashFoundation/coredns-zcash/pull/42) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
+9. 🎉 Merged PR [#50](https://github.com/ZcashFoundation/zebra-launcher/pull/50) in [ZcashFoundation/zebra-launcher](https://github.com/ZcashFoundation/zebra-launcher)
+10. 💪 Opened PR [#4](https://github.com/ZcashFoundation/infra-monitoring-kuma/pull/4) in [ZcashFoundation/infra-monitoring-kuma](https://github.com/ZcashFoundation/infra-monitoring-kuma)
 <!--END_SECTION:activity-->
 </details>
 
