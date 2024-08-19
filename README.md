@@ -100,12 +100,6 @@ me.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=gustavovalverde&theme=flat&&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="150px" style="margin:0px 7px 15px 7px;" src="https://github-readme-stats.vercel.app/api?username=gustavovalverde&count_private=true&show_icons=true&include_all_commits=true" alt="Gustavo's GitHub stats" />
   </a>
