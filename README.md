@@ -31,25 +31,26 @@ me.say_hi()
 
 ## 🗂️ OpenSource Projects
 
-<a href="https://github.com/opticrd/datos-portal-backend">
+<a href="https://github.com/ogticrd/cuenta-unica-registry">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogticrd&repo=cuenta-unica-registry&show_icons=true" alt="cuenta-unica-registry" />
 </a>
 
-<a href="https://github.com/indexa-git/l10n-dominicana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=indexa-git&repo=l10n-dominicana&show_icons=true" alt="l10n-dominicana" />
+<a href="https://github.com/ZcashFoundation/zebra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ZcashFoundation&repo=zebra&show_icons=true" alt="zebra" />
 </a>
 
 <a href="https://github.com/iterativo-git/dockerdoo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iterativo-git&repo=dockerdoo&show_icons=true" alt="Dockerdoo" />
 </a>
 
-<a href="https://github.com/opticrd/datos-portal-backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ogticrd&repo=datos-portal-backend&show_icons=true" alt="datos-portal-backend" />
+<a href="https://github.com/indexa-git/l10n-dominicana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=indexa-git&repo=l10n-dominicana&show_icons=true" alt="l10n-dominicana" />
 </a>
 
 <a href="https://github.com/indexa-git/pyazul">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=indexa-git&repo=pyazul&show_icons=true" alt="PyAzul" />
 </a>
+
 
 ## 🔧 Favorite Technologies & Tools
 
