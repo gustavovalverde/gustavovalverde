@@ -55,8 +55,9 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
 <div>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
 2. 💪 Opened PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
@@ -69,6 +70,7 @@
 9. 💪 Opened PR [#8](https://github.com/gustavovalverde/eth-private-network/pull/8) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
 10. ❌ Closed PR [#8892](https://github.com/ZcashFoundation/zebra/pull/8892) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
+
 </details>
 
 ---
