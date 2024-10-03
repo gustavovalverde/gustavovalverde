@@ -115,16 +115,16 @@ me.say_hi()
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img style="margin:15px 7px 15px 7px;" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=GustavoValverde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GustavoValverde's Activity Graph" /></a>
 </div>
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#780](https://github.com/ethpandaops/ethereum-package/issues/780) in [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package)
-2. 💪 Opened PR [#8892](https://github.com/ZcashFoundation/zebra/pull/8892) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 💪 Opened PR [#8891](https://github.com/ZcashFoundation/zebra/pull/8891) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#15](https://github.com/ZcashFoundation/infra/issues/15#issuecomment-2370743192) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-5. 🔒 Closed issue [#15](https://github.com/ZcashFoundation/infra/issues/15) in [ZcashFoundation/infra](https://github.com/ZcashFoundation/infra)
-6. 🗣 Commented on [#56](https://github.com/docker/scout-action/issues/56#issuecomment-2360585952) in [docker/scout-action](https://github.com/docker/scout-action)
-7. 🗣 Commented on [#8864](https://github.com/ZcashFoundation/zebra/issues/8864#issuecomment-2359303373) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#8869](https://github.com/ZcashFoundation/zebra/issues/8869#issuecomment-2359179818) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🔒 Closed issue [#8869](https://github.com/ZcashFoundation/zebra/issues/8869) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. ❗ Opened issue [#56](https://github.com/docker/scout-action/issues/56) in [docker/scout-action](https://github.com/docker/scout-action)
+1. 🎉 Merged PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+2. 💪 Opened PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+3. ❗ Opened issue [#785](https://github.com/ethpandaops/ethereum-package/issues/785) in [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package)
+4. ❗ Opened issue [#784](https://github.com/ethpandaops/ethereum-package/issues/784) in [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package)
+5. 🔒 Closed issue [#7](https://github.com/gustavovalverde/eth-private-network/issues/7) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+6. 🗣 Commented on [#7](https://github.com/gustavovalverde/eth-private-network/issues/7#issuecomment-2387048875) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+7. 🔒 Closed issue [#5](https://github.com/gustavovalverde/eth-private-network/issues/5) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+8. 🎉 Merged PR [#8](https://github.com/gustavovalverde/eth-private-network/pull/8) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+9. 💪 Opened PR [#8](https://github.com/gustavovalverde/eth-private-network/pull/8) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+10. ❌ Closed PR [#8892](https://github.com/ZcashFoundation/zebra/pull/8892) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 </details>
 
