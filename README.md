@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8910](https://github.com/ZcashFoundation/zebra/pull/8910) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 💪 Opened PR [#8908](https://github.com/ZcashFoundation/zebra/pull/8908) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🎉 Merged PR [#21](https://github.com/gustavovalverde/gustavovalverde/pull/21) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
-4. 💪 Opened PR [#21](https://github.com/gustavovalverde/gustavovalverde/pull/21) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
-5. 🎉 Merged PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
-6. 💪 Opened PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
-7. ❗ Opened issue [#785](https://github.com/ethpandaops/ethereum-package/issues/785) in [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package)
-8. ❗ Opened issue [#784](https://github.com/ethpandaops/ethereum-package/issues/784) in [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package)
-9. 🔒 Closed issue [#7](https://github.com/gustavovalverde/eth-private-network/issues/7) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
-10. 🗣 Commented on [#7](https://github.com/gustavovalverde/eth-private-network/issues/7#issuecomment-2387048875) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+1. 🗣 Commented on [#8886](https://github.com/ZcashFoundation/zebra/issues/8886#issuecomment-2396279896) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🔒 Closed issue [#8886](https://github.com/ZcashFoundation/zebra/issues/8886) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 💪 Opened PR [#8910](https://github.com/ZcashFoundation/zebra/pull/8910) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 💪 Opened PR [#8908](https://github.com/ZcashFoundation/zebra/pull/8908) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🎉 Merged PR [#21](https://github.com/gustavovalverde/gustavovalverde/pull/21) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+6. 💪 Opened PR [#21](https://github.com/gustavovalverde/gustavovalverde/pull/21) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+7. 🎉 Merged PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+8. 💪 Opened PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
+9. ❗ Opened issue [#785](https://github.com/ethpandaops/ethereum-package/issues/785) in [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package)
+10. ❗ Opened issue [#784](https://github.com/ethpandaops/ethereum-package/issues/784) in [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package)
 <!--END_SECTION:activity-->
 
 </details>
