@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8886](https://github.com/ZcashFoundation/zebra/issues/8886#issuecomment-2396279896) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🔒 Closed issue [#8886](https://github.com/ZcashFoundation/zebra/issues/8886) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 💪 Opened PR [#8910](https://github.com/ZcashFoundation/zebra/pull/8910) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 💪 Opened PR [#8908](https://github.com/ZcashFoundation/zebra/pull/8908) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🎉 Merged PR [#21](https://github.com/gustavovalverde/gustavovalverde/pull/21) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
-6. 💪 Opened PR [#21](https://github.com/gustavovalverde/gustavovalverde/pull/21) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
-7. 🎉 Merged PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
-8. 💪 Opened PR [#9](https://github.com/gustavovalverde/eth-private-network/pull/9) in [gustavovalverde/eth-private-network](https://github.com/gustavovalverde/eth-private-network)
-9. ❗ Opened issue [#785](https://github.com/ethpandaops/ethereum-package/issues/785) in [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package)
-10. ❗ Opened issue [#784](https://github.com/ethpandaops/ethereum-package/issues/784) in [ethpandaops/ethereum-package](https://github.com/ethpandaops/ethereum-package)
+1. 🗣 Commented on [#8936](https://github.com/ZcashFoundation/zebra/pull/8936#issuecomment-2416487005) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. ❌ Closed PR [#8936](https://github.com/ZcashFoundation/zebra/pull/8936) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#8923](https://github.com/ZcashFoundation/zebra/pull/8923#issuecomment-2416170026) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🗣 Commented on [#8908](https://github.com/ZcashFoundation/zebra/pull/8908#issuecomment-2410891591) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🗣 Commented on [#8886](https://github.com/ZcashFoundation/zebra/issues/8886#issuecomment-2396279896) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 🔒 Closed issue [#8886](https://github.com/ZcashFoundation/zebra/issues/8886) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 💪 Opened PR [#8910](https://github.com/ZcashFoundation/zebra/pull/8910) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 💪 Opened PR [#8908](https://github.com/ZcashFoundation/zebra/pull/8908) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 🎉 Merged PR [#21](https://github.com/gustavovalverde/gustavovalverde/pull/21) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
+10. 💪 Opened PR [#21](https://github.com/gustavovalverde/gustavovalverde/pull/21) in [gustavovalverde/gustavovalverde](https://github.com/gustavovalverde/gustavovalverde)
 <!--END_SECTION:activity-->
 
 </details>
