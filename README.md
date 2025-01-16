@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9108](https://github.com/ZcashFoundation/zebra/issues/9108) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#9092](https://github.com/ZcashFoundation/zebra/pull/9092#issuecomment-2562808412) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🗣 Commented on [#9102](https://github.com/ZcashFoundation/zebra/pull/9102#issuecomment-2562802909) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#9101](https://github.com/ZcashFoundation/zebra/pull/9101#issuecomment-2562802718) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🗣 Commented on [#9092](https://github.com/ZcashFoundation/zebra/pull/9092#issuecomment-2562801882) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 🗣 Commented on [#8830](https://github.com/ZcashFoundation/zebra/issues/8830#issuecomment-2545796962) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 🗣 Commented on [#9074](https://github.com/ZcashFoundation/zebra/issues/9074#issuecomment-2532068549) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🔒 Closed issue [#9074](https://github.com/ZcashFoundation/zebra/issues/9074) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🗣 Commented on [#9076](https://github.com/ZcashFoundation/zebra/issues/9076#issuecomment-2532068104) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 🔒 Closed issue [#9076](https://github.com/ZcashFoundation/zebra/issues/9076) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🎉 Merged PR [#9120](https://github.com/ZcashFoundation/zebra/pull/9120) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#9120](https://github.com/ZcashFoundation/zebra/pull/9120#issuecomment-2592570327) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#9120](https://github.com/ZcashFoundation/zebra/pull/9120#issuecomment-2592560341) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🗣 Commented on [#9120](https://github.com/ZcashFoundation/zebra/pull/9120#issuecomment-2592463213) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🗣 Commented on [#9120](https://github.com/ZcashFoundation/zebra/pull/9120#issuecomment-2592456536) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 🗣 Commented on [#9120](https://github.com/ZcashFoundation/zebra/pull/9120#issuecomment-2592225146) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 🗣 Commented on [#9114](https://github.com/ZcashFoundation/zebra/pull/9114#issuecomment-2590895692) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 💪 Opened PR [#9117](https://github.com/ZcashFoundation/zebra/pull/9117) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. ❗ Opened issue [#9112](https://github.com/ZcashFoundation/zebra/issues/9112) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. ❗ Opened issue [#9108](https://github.com/ZcashFoundation/zebra/issues/9108) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
