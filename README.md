@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9274](https://github.com/ZcashFoundation/zebra/pull/9274#issuecomment-2669349806) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🎉 Merged PR [#9269](https://github.com/ZcashFoundation/zebra/pull/9269) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🗣 Commented on [#9274](https://github.com/ZcashFoundation/zebra/pull/9274#issuecomment-2669259827) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 💪 Opened PR [#9274](https://github.com/ZcashFoundation/zebra/pull/9274) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 💪 Opened PR [#2](https://github.com/indexa-git/azul-ts/pull/2) in [indexa-git/azul-ts](https://github.com/indexa-git/azul-ts)
-6. ❌ Closed PR [#13](https://github.com/lucrise-llc/azul-ts/pull/13) in [lucrise-llc/azul-ts](https://github.com/lucrise-llc/azul-ts)
-7. 💪 Opened PR [#13](https://github.com/lucrise-llc/azul-ts/pull/13) in [lucrise-llc/azul-ts](https://github.com/lucrise-llc/azul-ts)
-8. 💪 Opened PR [#9252](https://github.com/ZcashFoundation/zebra/pull/9252) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🗣 Commented on [#8891](https://github.com/ZcashFoundation/zebra/pull/8891#issuecomment-2654556929) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 💪 Opened PR [#9222](https://github.com/ZcashFoundation/zebra/pull/9222) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 💪 Opened PR [#9279](https://github.com/ZcashFoundation/zebra/pull/9279) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🎉 Merged PR [#9275](https://github.com/ZcashFoundation/zebra/pull/9275) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#9276](https://github.com/ZcashFoundation/zebra/pull/9276#issuecomment-2669613439) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🗣 Commented on [#9274](https://github.com/ZcashFoundation/zebra/pull/9274#issuecomment-2669349806) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🎉 Merged PR [#9269](https://github.com/ZcashFoundation/zebra/pull/9269) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 🗣 Commented on [#9274](https://github.com/ZcashFoundation/zebra/pull/9274#issuecomment-2669259827) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 💪 Opened PR [#9274](https://github.com/ZcashFoundation/zebra/pull/9274) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 💪 Opened PR [#2](https://github.com/indexa-git/azul-ts/pull/2) in [indexa-git/azul-ts](https://github.com/indexa-git/azul-ts)
+9. ❌ Closed PR [#13](https://github.com/lucrise-llc/azul-ts/pull/13) in [lucrise-llc/azul-ts](https://github.com/lucrise-llc/azul-ts)
+10. 💪 Opened PR [#13](https://github.com/lucrise-llc/azul-ts/pull/13) in [lucrise-llc/azul-ts](https://github.com/lucrise-llc/azul-ts)
 <!--END_SECTION:activity-->
 
 </details>
