@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/indexa-git/pyazul/pull/25) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-2. 💪 Opened PR [#25](https://github.com/indexa-git/pyazul/pull/25) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-3. 🎉 Merged PR [#167](https://github.com/iterativo-git/dockerdoo/pull/167) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-4. ❌ Closed PR [#9332](https://github.com/ZcashFoundation/zebra/pull/9332) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🗣 Commented on [#9306](https://github.com/ZcashFoundation/zebra/pull/9306#issuecomment-2754600196) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 🗣 Commented on [#9272](https://github.com/ZcashFoundation/zebra/pull/9272#issuecomment-2751913325) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 🗣 Commented on [#9260](https://github.com/ZcashFoundation/zebra/pull/9260#issuecomment-2751884371) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 💪 Opened PR [#9344](https://github.com/ZcashFoundation/zebra/pull/9344) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🗣 Commented on [#9311](https://github.com/ZcashFoundation/zebra/pull/9311#issuecomment-2733522988) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 🗣 Commented on [#9311](https://github.com/ZcashFoundation/zebra/pull/9311#issuecomment-2733427416) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🗣 Commented on [#9344](https://github.com/ZcashFoundation/zebra/pull/9344#issuecomment-2769998061) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#9344](https://github.com/ZcashFoundation/zebra/pull/9344#issuecomment-2769986233) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#9276](https://github.com/ZcashFoundation/zebra/pull/9276#issuecomment-2768792421) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. ❌ Closed PR [#9276](https://github.com/ZcashFoundation/zebra/pull/9276) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 💪 Opened PR [#9362](https://github.com/ZcashFoundation/zebra/pull/9362) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. ❗ Opened issue [#1083](https://github.com/hadolint/hadolint/issues/1083) in [hadolint/hadolint](https://github.com/hadolint/hadolint)
+7. 🗣 Commented on [#9334](https://github.com/ZcashFoundation/zebra/pull/9334#issuecomment-2767276616) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. ❌ Closed PR [#20](https://github.com/indexa-git/pyazul/pull/20) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+9. ❌ Closed PR [#21](https://github.com/indexa-git/pyazul/pull/21) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+10. ❌ Closed PR [#22](https://github.com/indexa-git/pyazul/pull/22) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
 <!--END_SECTION:activity-->
 
 </details>
