@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#334](https://github.com/zingolabs/zaino/pull/334) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-2. 💪 Opened PR [#333](https://github.com/zingolabs/zaino/pull/333) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-3. 💪 Opened PR [#332](https://github.com/zingolabs/zaino/pull/332) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-4. 🗣 Commented on [#9343](https://github.com/ZcashFoundation/zebra/issues/9343#issuecomment-2894575219) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 💪 Opened PR [#146](https://github.com/zcash/wallet/pull/146) in [zcash/wallet](https://github.com/zcash/wallet)
-6. 💪 Opened PR [#331](https://github.com/zingolabs/zaino/pull/331) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-7. 🎉 Merged PR [#1](https://github.com/ZcashFoundation/z3/pull/1) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-8. 💪 Opened PR [#1](https://github.com/alchemydc/z3/pull/1) in [alchemydc/z3](https://github.com/alchemydc/z3)
-9. 🎉 Merged PR [#30](https://github.com/indexa-git/pyazul/pull/30) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-10. 💪 Opened PR [#1](https://github.com/ZcashFoundation/z3/pull/1) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+1. 🎉 Merged PR [#31](https://github.com/indexa-git/pyazul/pull/31) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+2. 💪 Opened PR [#31](https://github.com/indexa-git/pyazul/pull/31) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+3. 🗣 Commented on [#9545](https://github.com/ZcashFoundation/zebra/pull/9545#issuecomment-2906535771) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 💪 Opened PR [#9545](https://github.com/ZcashFoundation/zebra/pull/9545) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🗣 Commented on [#331](https://github.com/zingolabs/zaino/pull/331#issuecomment-2898784355) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+6. ❌ Closed PR [#331](https://github.com/zingolabs/zaino/pull/331) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+7. 💪 Opened PR [#334](https://github.com/zingolabs/zaino/pull/334) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+8. 💪 Opened PR [#333](https://github.com/zingolabs/zaino/pull/333) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+9. 💪 Opened PR [#332](https://github.com/zingolabs/zaino/pull/332) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+10. 🗣 Commented on [#9343](https://github.com/ZcashFoundation/zebra/issues/9343#issuecomment-2894575219) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
