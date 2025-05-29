@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/indexa-git/pyazul/pull/31) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-2. 💪 Opened PR [#31](https://github.com/indexa-git/pyazul/pull/31) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-3. 🗣 Commented on [#9545](https://github.com/ZcashFoundation/zebra/pull/9545#issuecomment-2906535771) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 💪 Opened PR [#9545](https://github.com/ZcashFoundation/zebra/pull/9545) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🗣 Commented on [#331](https://github.com/zingolabs/zaino/pull/331#issuecomment-2898784355) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-6. ❌ Closed PR [#331](https://github.com/zingolabs/zaino/pull/331) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-7. 💪 Opened PR [#334](https://github.com/zingolabs/zaino/pull/334) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-8. 💪 Opened PR [#333](https://github.com/zingolabs/zaino/pull/333) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-9. 💪 Opened PR [#332](https://github.com/zingolabs/zaino/pull/332) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-10. 🗣 Commented on [#9343](https://github.com/ZcashFoundation/zebra/issues/9343#issuecomment-2894575219) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🚀 Published release [2.1.1](https://github.com/indexa-git/pyazul/releases/tag/2.1.1) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+2. 🚀 Published release [2.1.0](https://github.com/indexa-git/pyazul/releases/tag/2.1.0) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+3. 🎉 Merged PR [#34](https://github.com/indexa-git/pyazul/pull/34) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+4. 🎉 Merged PR [#33](https://github.com/indexa-git/pyazul/pull/33) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+5. 💪 Opened PR [#34](https://github.com/indexa-git/pyazul/pull/34) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+6. 💪 Opened PR [#33](https://github.com/indexa-git/pyazul/pull/33) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+7. ❌ Closed PR [#28](https://github.com/indexa-git/pyazul/pull/28) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+8. 🚀 Published release [2.0.0](https://github.com/indexa-git/pyazul/releases/tag/2.0.0) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+9. 🎉 Merged PR [#32](https://github.com/indexa-git/pyazul/pull/32) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+10. 🔒 Closed issue [#9523](https://github.com/ZcashFoundation/zebra/issues/9523) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
