@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [2.1.1](https://github.com/indexa-git/pyazul/releases/tag/2.1.1) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-2. 🚀 Published release [2.1.0](https://github.com/indexa-git/pyazul/releases/tag/2.1.0) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-3. 🎉 Merged PR [#34](https://github.com/indexa-git/pyazul/pull/34) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-4. 🎉 Merged PR [#33](https://github.com/indexa-git/pyazul/pull/33) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-5. 💪 Opened PR [#34](https://github.com/indexa-git/pyazul/pull/34) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-6. 💪 Opened PR [#33](https://github.com/indexa-git/pyazul/pull/33) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-7. ❌ Closed PR [#28](https://github.com/indexa-git/pyazul/pull/28) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-8. 🚀 Published release [2.0.0](https://github.com/indexa-git/pyazul/releases/tag/2.0.0) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-9. 🎉 Merged PR [#32](https://github.com/indexa-git/pyazul/pull/32) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
-10. 🔒 Closed issue [#9523](https://github.com/ZcashFoundation/zebra/issues/9523) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 💪 Opened PR [#36](https://github.com/indexa-git/pyazul/pull/36) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+2. 🗣 Commented on [#9526](https://github.com/ZcashFoundation/zebra/pull/9526#issuecomment-2922862052) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#9362](https://github.com/ZcashFoundation/zebra/pull/9362#issuecomment-2922825482) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🚀 Published release [2.1.2](https://github.com/indexa-git/pyazul/releases/tag/2.1.2) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+5. 🎉 Merged PR [#35](https://github.com/indexa-git/pyazul/pull/35) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+6. 💪 Opened PR [#35](https://github.com/indexa-git/pyazul/pull/35) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+7. 🚀 Published release [2.1.1](https://github.com/indexa-git/pyazul/releases/tag/2.1.1) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+8. 🚀 Published release [2.1.0](https://github.com/indexa-git/pyazul/releases/tag/2.1.0) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+9. 🎉 Merged PR [#34](https://github.com/indexa-git/pyazul/pull/34) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
+10. 🎉 Merged PR [#33](https://github.com/indexa-git/pyazul/pull/33) in [indexa-git/pyazul](https://github.com/indexa-git/pyazul)
 <!--END_SECTION:activity-->
 
 </details>
