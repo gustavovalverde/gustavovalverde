@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/gustavovalverde/e-ticket-rd/pull/20) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-2. 🗣 Commented on [#9476](https://github.com/ZcashFoundation/zebra/pull/9476#issuecomment-2955928276) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🎉 Merged PR [#19](https://github.com/gustavovalverde/e-ticket-rd/pull/19) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-4. 💪 Opened PR [#19](https://github.com/gustavovalverde/e-ticket-rd/pull/19) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-5. 🎉 Merged PR [#18](https://github.com/gustavovalverde/e-ticket-rd/pull/18) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-6. 🗣 Commented on [#18](https://github.com/gustavovalverde/e-ticket-rd/pull/18#issuecomment-2955011500) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-7. 🗣 Commented on [#3813](https://github.com/ory/hydra/pull/3813#issuecomment-2954186806) in [ory/hydra](https://github.com/ory/hydra)
-8. 🗣 Commented on [#17](https://github.com/gustavovalverde/e-ticket-rd/issues/17#issuecomment-2954134617) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-9. 🔒 Closed issue [#17](https://github.com/gustavovalverde/e-ticket-rd/issues/17) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-10. 🎉 Merged PR [#16](https://github.com/gustavovalverde/e-ticket-rd/pull/16) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+1. 🎉 Merged PR [#23](https://github.com/gustavovalverde/e-ticket-rd/pull/23) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+2. 💪 Opened PR [#23](https://github.com/gustavovalverde/e-ticket-rd/pull/23) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+3. 🎉 Merged PR [#22](https://github.com/gustavovalverde/e-ticket-rd/pull/22) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+4. 💪 Opened PR [#22](https://github.com/gustavovalverde/e-ticket-rd/pull/22) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+5. 💪 Opened PR [#20](https://github.com/gustavovalverde/e-ticket-rd/pull/20) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+6. 🗣 Commented on [#9476](https://github.com/ZcashFoundation/zebra/pull/9476#issuecomment-2955928276) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 🎉 Merged PR [#19](https://github.com/gustavovalverde/e-ticket-rd/pull/19) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+8. 💪 Opened PR [#19](https://github.com/gustavovalverde/e-ticket-rd/pull/19) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+9. 🎉 Merged PR [#18](https://github.com/gustavovalverde/e-ticket-rd/pull/18) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+10. 🗣 Commented on [#18](https://github.com/gustavovalverde/e-ticket-rd/pull/18#issuecomment-2955011500) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
 <!--END_SECTION:activity-->
 
 </details>
