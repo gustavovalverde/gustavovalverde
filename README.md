@@ -59,11 +59,11 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9716](https://github.com/ZcashFoundation/zebra/pull/9716) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 💪 Opened PR [#9712](https://github.com/ZcashFoundation/zebra/pull/9712) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🗣 Commented on [#146](https://github.com/zcash/wallet/pull/146#issuecomment-3068731237) in [zcash/wallet](https://github.com/zcash/wallet)
-4. 🗣 Commented on [#33](https://github.com/gustavovalverde/e-ticket-rd/pull/33#issuecomment-2993481363) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-5. 🎉 Merged PR [#28](https://github.com/gustavovalverde/e-ticket-rd/pull/28) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+1. 🎉 Merged PR [#9716](https://github.com/ZcashFoundation/zebra/pull/9716) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#9716](https://github.com/ZcashFoundation/zebra/pull/9716#issuecomment-3140832778) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 💪 Opened PR [#9716](https://github.com/ZcashFoundation/zebra/pull/9716) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 💪 Opened PR [#9712](https://github.com/ZcashFoundation/zebra/pull/9712) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🗣 Commented on [#146](https://github.com/zcash/wallet/pull/146#issuecomment-3068731237) in [zcash/wallet](https://github.com/zcash/wallet)
 6. 🗣 Commented on [#28](https://github.com/gustavovalverde/e-ticket-rd/pull/28#issuecomment-2988021858) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
 7. 🗣 Commented on [#33](https://github.com/gustavovalverde/e-ticket-rd/pull/33#issuecomment-2988014440) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
 8. 🔒 Closed issue [#7541](https://github.com/ZcashFoundation/zebra/issues/7541) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
