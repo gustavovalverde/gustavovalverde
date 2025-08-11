@@ -59,14 +59,14 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9716](https://github.com/ZcashFoundation/zebra/pull/9716) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#9716](https://github.com/ZcashFoundation/zebra/pull/9716#issuecomment-3140832778) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 💪 Opened PR [#9716](https://github.com/ZcashFoundation/zebra/pull/9716) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 💪 Opened PR [#9712](https://github.com/ZcashFoundation/zebra/pull/9712) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🗣 Commented on [#146](https://github.com/zcash/wallet/pull/146#issuecomment-3068731237) in [zcash/wallet](https://github.com/zcash/wallet)
-6. 🗣 Commented on [#28](https://github.com/gustavovalverde/e-ticket-rd/pull/28#issuecomment-2988021858) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-7. 🗣 Commented on [#33](https://github.com/gustavovalverde/e-ticket-rd/pull/33#issuecomment-2988014440) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-8. 🔒 Closed issue [#7541](https://github.com/ZcashFoundation/zebra/issues/7541) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 💪 Opened PR [#9768](https://github.com/ZcashFoundation/zebra/pull/9768) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#9646](https://github.com/ZcashFoundation/zebra/pull/9646#issuecomment-3164991808) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. ❌ Closed PR [#9646](https://github.com/ZcashFoundation/zebra/pull/9646) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🎉 Merged PR [#9716](https://github.com/ZcashFoundation/zebra/pull/9716) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 🗣 Commented on [#9716](https://github.com/ZcashFoundation/zebra/pull/9716#issuecomment-3140832778) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 💪 Opened PR [#9716](https://github.com/ZcashFoundation/zebra/pull/9716) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 💪 Opened PR [#9712](https://github.com/ZcashFoundation/zebra/pull/9712) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 🗣 Commented on [#146](https://github.com/zcash/wallet/pull/146#issuecomment-3068731237) in [zcash/wallet](https://github.com/zcash/wallet)
 9. 🎉 Merged PR [#9621](https://github.com/ZcashFoundation/zebra/pull/9621) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 10. ❗ Opened issue [#32](https://github.com/gustavovalverde/e-ticket-rd/issues/32) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
 <!--END_SECTION:activity-->
