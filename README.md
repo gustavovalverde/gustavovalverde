@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2135](https://github.com/firecrawl/firecrawl/pull/2135) in [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-2. 💪 Opened PR [#2129](https://github.com/firecrawl/firecrawl/pull/2129) in [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
-3. 🗣 Commented on [#194](https://github.com/ShieldedLabs/zebra-crosslink/issues/194#issuecomment-3255362380) in [ShieldedLabs/zebra-crosslink](https://github.com/ShieldedLabs/zebra-crosslink)
-4. 💪 Opened PR [#4](https://github.com/gustavovalverde/zebra/pull/4) in [gustavovalverde/zebra](https://github.com/gustavovalverde/zebra)
-5. ❌ Closed PR [#9843](https://github.com/ZcashFoundation/zebra/pull/9843) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 💪 Opened PR [#9843](https://github.com/ZcashFoundation/zebra/pull/9843) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 🎉 Merged PR [#9768](https://github.com/ZcashFoundation/zebra/pull/9768) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#9768](https://github.com/ZcashFoundation/zebra/pull/9768#issuecomment-3226769978) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 💪 Opened PR [#3](https://github.com/gustavovalverde/zebra/pull/3) in [gustavovalverde/zebra](https://github.com/gustavovalverde/zebra)
-10. 💪 Opened PR [#2](https://github.com/gustavovalverde/zebra/pull/2) in [gustavovalverde/zebra](https://github.com/gustavovalverde/zebra)
+1. 🗣 Commented on [#1731](https://github.com/anthropics/claude-code/issues/1731#issuecomment-3288115922) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 💪 Opened PR [#9890](https://github.com/ZcashFoundation/zebra/pull/9890) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#8830](https://github.com/ZcashFoundation/zebra/issues/8830#issuecomment-3279193240) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 💪 Opened PR [#9886](https://github.com/ZcashFoundation/zebra/pull/9886) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 💪 Opened PR [#2135](https://github.com/firecrawl/firecrawl/pull/2135) in [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+6. 💪 Opened PR [#2129](https://github.com/firecrawl/firecrawl/pull/2129) in [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl)
+7. 🗣 Commented on [#194](https://github.com/ShieldedLabs/zebra-crosslink/issues/194#issuecomment-3255362380) in [ShieldedLabs/zebra-crosslink](https://github.com/ShieldedLabs/zebra-crosslink)
+8. 💪 Opened PR [#4](https://github.com/gustavovalverde/zebra/pull/4) in [gustavovalverde/zebra](https://github.com/gustavovalverde/zebra)
+9. ❌ Closed PR [#9843](https://github.com/ZcashFoundation/zebra/pull/9843) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. 💪 Opened PR [#9843](https://github.com/ZcashFoundation/zebra/pull/9843) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
