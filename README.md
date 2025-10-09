@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9895](https://github.com/ZcashFoundation/zebra/pull/9895) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#9895](https://github.com/ZcashFoundation/zebra/pull/9895#issuecomment-3357247299) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🗣 Commented on [#620](https://github.com/midday-ai/midday/issues/620#issuecomment-3357124795) in [midday-ai/midday](https://github.com/midday-ai/midday)
-4. ❗ Opened issue [#620](https://github.com/midday-ai/midday/issues/620) in [midday-ai/midday](https://github.com/midday-ai/midday)
-5. 🗣 Commented on [#9936](https://github.com/ZcashFoundation/zebra/pull/9936#issuecomment-3348713951) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 💪 Opened PR [#9936](https://github.com/ZcashFoundation/zebra/pull/9936) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 🗣 Commented on [#9886](https://github.com/ZcashFoundation/zebra/pull/9886#issuecomment-3348328527) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🎉 Merged PR [#9](https://github.com/gustavovalverde/h2m-parser/pull/9) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
-9. 🎉 Merged PR [#8](https://github.com/gustavovalverde/h2m-parser/pull/8) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
-10. 💪 Opened PR [#8](https://github.com/gustavovalverde/h2m-parser/pull/8) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
+1. 🎉 Merged PR [#11](https://github.com/gustavovalverde/h2m-parser/pull/11) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
+2. 🎉 Merged PR [#10](https://github.com/gustavovalverde/h2m-parser/pull/10) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
+3. 💪 Opened PR [#10](https://github.com/gustavovalverde/h2m-parser/pull/10) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
+4. 💪 Opened PR [#4](https://github.com/ZcashFoundation/z3/pull/4) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+5. 🎉 Merged PR [#9895](https://github.com/ZcashFoundation/zebra/pull/9895) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 🗣 Commented on [#9895](https://github.com/ZcashFoundation/zebra/pull/9895#issuecomment-3357247299) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 🗣 Commented on [#620](https://github.com/midday-ai/midday/issues/620#issuecomment-3357124795) in [midday-ai/midday](https://github.com/midday-ai/midday)
+8. ❗ Opened issue [#620](https://github.com/midday-ai/midday/issues/620) in [midday-ai/midday](https://github.com/midday-ai/midday)
+9. 🗣 Commented on [#9936](https://github.com/ZcashFoundation/zebra/pull/9936#issuecomment-3348713951) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. 💪 Opened PR [#9936](https://github.com/ZcashFoundation/zebra/pull/9936) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
