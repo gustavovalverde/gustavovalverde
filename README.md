@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/ZcashFoundation/z3/pull/4) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-2. 🎉 Merged PR [#11](https://github.com/gustavovalverde/h2m-parser/pull/11) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
-3. 🎉 Merged PR [#10](https://github.com/gustavovalverde/h2m-parser/pull/10) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
-4. 💪 Opened PR [#10](https://github.com/gustavovalverde/h2m-parser/pull/10) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
-5. 💪 Opened PR [#4](https://github.com/ZcashFoundation/z3/pull/4) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-6. 🎉 Merged PR [#9895](https://github.com/ZcashFoundation/zebra/pull/9895) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 🗣 Commented on [#9895](https://github.com/ZcashFoundation/zebra/pull/9895#issuecomment-3357247299) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#620](https://github.com/midday-ai/midday/issues/620#issuecomment-3357124795) in [midday-ai/midday](https://github.com/midday-ai/midday)
-9. ❗ Opened issue [#620](https://github.com/midday-ai/midday/issues/620) in [midday-ai/midday](https://github.com/midday-ai/midday)
-10. 🗣 Commented on [#9936](https://github.com/ZcashFoundation/zebra/pull/9936#issuecomment-3348713951) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🗣 Commented on [#9925](https://github.com/ZcashFoundation/zebra/pull/9925#issuecomment-3386341137) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. ❌ Unlabeled PR [#9975](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#9975](https://github.com/ZcashFoundation/zebra/pull/9975#issuecomment-3386313892) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🗣 Commented on [#33](https://github.com/gustavovalverde/e-ticket-rd/pull/33#issuecomment-3384317764) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+5. 🗣 Commented on [#34](https://github.com/gustavovalverde/e-ticket-rd/pull/34#issuecomment-3384316241) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+6. 🗣 Commented on [#35](https://github.com/gustavovalverde/e-ticket-rd/pull/35#issuecomment-3384315667) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
+7. 💪 Opened PR [#10](undefined) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
+8. 💪 Opened PR [#4](undefined) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+9. ❌ Assigned PR [#4](undefined) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+10. 🗣 Commented on [#9895](https://github.com/ZcashFoundation/zebra/pull/9895#issuecomment-3361243889) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
