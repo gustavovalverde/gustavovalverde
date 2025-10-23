@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9925](https://github.com/ZcashFoundation/zebra/pull/9925#issuecomment-3386341137) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. ❌ Unlabeled PR [#9975](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🗣 Commented on [#9975](https://github.com/ZcashFoundation/zebra/pull/9975#issuecomment-3386313892) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#33](https://github.com/gustavovalverde/e-ticket-rd/pull/33#issuecomment-3384317764) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-5. 🗣 Commented on [#34](https://github.com/gustavovalverde/e-ticket-rd/pull/34#issuecomment-3384316241) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-6. 🗣 Commented on [#35](https://github.com/gustavovalverde/e-ticket-rd/pull/35#issuecomment-3384315667) in [gustavovalverde/e-ticket-rd](https://github.com/gustavovalverde/e-ticket-rd)
-7. 💪 Opened PR [#10](undefined) in [gustavovalverde/h2m-parser](https://github.com/gustavovalverde/h2m-parser)
-8. 💪 Opened PR [#4](undefined) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-9. ❌ Assigned PR [#4](undefined) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-10. 🗣 Commented on [#9895](https://github.com/ZcashFoundation/zebra/pull/9895#issuecomment-3361243889) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 💪 Opened PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. ❌ Assigned PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. ❌ Unlabeled PR [#10015](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. ❌ Labeled PR [#10015](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. ❌ Labeled PR [#10015](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
