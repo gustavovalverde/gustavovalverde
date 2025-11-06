@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9910](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 💪 Opened PR [#6](undefined) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+2. ❌ Closed PR [#9910](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 3. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 4. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 5. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 6. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 💪 Opened PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. ❌ Assigned PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. ❌ Unlabeled PR [#10015](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. ❌ Labeled PR [#10015](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. ❌ Labeled PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 💪 Opened PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. ❌ Assigned PR [#10020](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. ❌ Unlabeled PR [#10015](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
