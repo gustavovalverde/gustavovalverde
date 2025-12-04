@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9992](https://github.com/ZcashFoundation/zebra/pull/9992#issuecomment-3591524264) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2.  Labeled issue [#10156](https://github.com/ZcashFoundation/zebra/issues/10156) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3.  Labeled issue [#10156](https://github.com/ZcashFoundation/zebra/issues/10156) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4.  Labeled issue [#10156](https://github.com/ZcashFoundation/zebra/issues/10156) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5.  Labeled issue [#10156](https://github.com/ZcashFoundation/zebra/issues/10156) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6.  Labeled issue [#10156](https://github.com/ZcashFoundation/zebra/issues/10156) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. ❗ Opened issue [#10156](https://github.com/ZcashFoundation/zebra/issues/10156) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#10152](https://github.com/ZcashFoundation/zebra/pull/10152#issuecomment-3589940147) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🗣 Commented on [#10145](https://github.com/ZcashFoundation/zebra/pull/10145#issuecomment-3589789468) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 🗣 Commented on [#10126](https://github.com/ZcashFoundation/zebra/issues/10126#issuecomment-3589709496) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. ❌ Assigned PR [#10181](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 💪 Opened PR [#10181](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6.  Unassigned issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7.  Assigned issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. ❗ Opened issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
