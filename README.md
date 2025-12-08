@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#10181](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 💪 Opened PR [#10181](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6.  Unassigned issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7.  Assigned issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. ❗ Opened issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1.  Labeled issue [#8](https://github.com/gustavovalverde/whatsnew/issues/8) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+2. ❗ Opened issue [#8](https://github.com/gustavovalverde/whatsnew/issues/8) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+3.  Labeled issue [#7](https://github.com/gustavovalverde/whatsnew/issues/7) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+4. ❗ Opened issue [#7](https://github.com/gustavovalverde/whatsnew/issues/7) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+5. ❌ Merged PR [#1](undefined) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+6. 💪 Opened PR [#1](undefined) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+7. 🚀 Published release [v0.1.0 - Initial Release](https://github.com/gustavovalverde/whatsnew/releases/tag/v0.1.0) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+8. ❌ Assigned PR [#10181](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 💪 Opened PR [#10181](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
