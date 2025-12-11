@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#8](https://github.com/gustavovalverde/whatsnew/issues/8) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-2. ❗ Opened issue [#8](https://github.com/gustavovalverde/whatsnew/issues/8) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-3.  Labeled issue [#7](https://github.com/gustavovalverde/whatsnew/issues/7) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-4. ❗ Opened issue [#7](https://github.com/gustavovalverde/whatsnew/issues/7) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-5. ❌ Merged PR [#1](undefined) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-6. 💪 Opened PR [#1](undefined) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-7. 🚀 Published release [v0.1.0 - Initial Release](https://github.com/gustavovalverde/whatsnew/releases/tag/v0.1.0) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-8. ❌ Assigned PR [#10181](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 💪 Opened PR [#10181](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10.  Labeled issue [#10180](https://github.com/ZcashFoundation/zebra/issues/10180) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 💪 Opened PR [#61](undefined) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
+2. 💪 Opened PR [#31](undefined) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
+3.  Labeled issue [#14](https://github.com/gustavovalverde/whatsnew/issues/14) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+4. ❗ Opened issue [#14](https://github.com/gustavovalverde/whatsnew/issues/14) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+5.  Labeled issue [#13](https://github.com/gustavovalverde/whatsnew/issues/13) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+6. ❗ Opened issue [#13](https://github.com/gustavovalverde/whatsnew/issues/13) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+7.  Labeled issue [#12](https://github.com/gustavovalverde/whatsnew/issues/12) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+8. ❗ Opened issue [#12](https://github.com/gustavovalverde/whatsnew/issues/12) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+9.  Labeled issue [#11](https://github.com/gustavovalverde/whatsnew/issues/11) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+10. ❗ Opened issue [#11](https://github.com/gustavovalverde/whatsnew/issues/11) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
 <!--END_SECTION:activity-->
 
 </details>
