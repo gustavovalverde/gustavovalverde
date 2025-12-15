@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#61](undefined) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
-2. 💪 Opened PR [#31](undefined) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
-3.  Labeled issue [#14](https://github.com/gustavovalverde/whatsnew/issues/14) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-4. ❗ Opened issue [#14](https://github.com/gustavovalverde/whatsnew/issues/14) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-5.  Labeled issue [#13](https://github.com/gustavovalverde/whatsnew/issues/13) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-6. ❗ Opened issue [#13](https://github.com/gustavovalverde/whatsnew/issues/13) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-7.  Labeled issue [#12](https://github.com/gustavovalverde/whatsnew/issues/12) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-8. ❗ Opened issue [#12](https://github.com/gustavovalverde/whatsnew/issues/12) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-9.  Labeled issue [#11](https://github.com/gustavovalverde/whatsnew/issues/11) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
-10. ❗ Opened issue [#11](https://github.com/gustavovalverde/whatsnew/issues/11) in [gustavovalverde/whatsnew](https://github.com/gustavovalverde/whatsnew)
+1. ❗ Opened issue [#8540](https://github.com/polarsource/polar/issues/8540) in [polarsource/polar](https://github.com/polarsource/polar)
+2. ❗ Opened issue [#8539](https://github.com/polarsource/polar/issues/8539) in [polarsource/polar](https://github.com/polarsource/polar)
+3. 🗣 Commented on [#6740](https://github.com/better-auth/better-auth/pull/6740#issuecomment-3649845869) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 💪 Opened PR [#6740](undefined) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. ❗ Opened issue [#6737](https://github.com/better-auth/better-auth/issues/6737) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. ❌ Merged PR [#1](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+7. 🔒 Closed issue [#7](https://github.com/ZcashFoundation/z3/issues/7) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+8. 🗣 Commented on [#7](https://github.com/ZcashFoundation/z3/issues/7#issuecomment-3647529442) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+9. 🗣 Commented on [#11](https://github.com/ZcashFoundation/z3/pull/11#issuecomment-3647525227) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+10. 🔒 Closed issue [#9](https://github.com/ZcashFoundation/z3/issues/9) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
 <!--END_SECTION:activity-->
 
 </details>
