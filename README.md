@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8540](https://github.com/polarsource/polar/issues/8540) in [polarsource/polar](https://github.com/polarsource/polar)
-2. ❗ Opened issue [#8539](https://github.com/polarsource/polar/issues/8539) in [polarsource/polar](https://github.com/polarsource/polar)
-3. 🗣 Commented on [#6740](https://github.com/better-auth/better-auth/pull/6740#issuecomment-3649845869) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 💪 Opened PR [#6740](undefined) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. ❗ Opened issue [#6737](https://github.com/better-auth/better-auth/issues/6737) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. ❌ Merged PR [#1](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-7. 🔒 Closed issue [#7](https://github.com/ZcashFoundation/z3/issues/7) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-8. 🗣 Commented on [#7](https://github.com/ZcashFoundation/z3/issues/7#issuecomment-3647529442) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-9. 🗣 Commented on [#11](https://github.com/ZcashFoundation/z3/pull/11#issuecomment-3647525227) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-10. 🔒 Closed issue [#9](https://github.com/ZcashFoundation/z3/issues/9) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+1.  Labeled issue [#2](https://github.com/gustavovalverde/zentity/issues/2) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+2. ❗ Opened issue [#2](https://github.com/gustavovalverde/zentity/issues/2) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+3. 🗣 Commented on [#10198](https://github.com/ZcashFoundation/zebra/pull/10198#issuecomment-3667445480) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. ❌ Merged PR [#774](undefined) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+5. 💪 Opened PR [#774](undefined) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+6. 🗣 Commented on [#735](https://github.com/zingolabs/zaino/issues/735#issuecomment-3666884432) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+7. 🗣 Commented on [#6740](https://github.com/better-auth/better-auth/pull/6740#issuecomment-3654467305) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. ❗ Opened issue [#8540](https://github.com/polarsource/polar/issues/8540) in [polarsource/polar](https://github.com/polarsource/polar)
+9. ❗ Opened issue [#8539](https://github.com/polarsource/polar/issues/8539) in [polarsource/polar](https://github.com/polarsource/polar)
+10. 🗣 Commented on [#6740](https://github.com/better-auth/better-auth/pull/6740#issuecomment-3649845869) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
