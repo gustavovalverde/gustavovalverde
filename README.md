@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#2](https://github.com/gustavovalverde/zentity/issues/2) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-2. ❗ Opened issue [#2](https://github.com/gustavovalverde/zentity/issues/2) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-3. 🗣 Commented on [#10198](https://github.com/ZcashFoundation/zebra/pull/10198#issuecomment-3667445480) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. ❌ Merged PR [#774](undefined) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-5. 💪 Opened PR [#774](undefined) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-6. 🗣 Commented on [#735](https://github.com/zingolabs/zaino/issues/735#issuecomment-3666884432) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-7. 🗣 Commented on [#6740](https://github.com/better-auth/better-auth/pull/6740#issuecomment-3654467305) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. ❗ Opened issue [#8540](https://github.com/polarsource/polar/issues/8540) in [polarsource/polar](https://github.com/polarsource/polar)
-9. ❗ Opened issue [#8539](https://github.com/polarsource/polar/issues/8539) in [polarsource/polar](https://github.com/polarsource/polar)
-10. 🗣 Commented on [#6740](https://github.com/better-auth/better-auth/pull/6740#issuecomment-3649845869) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🗣 Commented on [#14327](https://github.com/anthropics/claude-code/issues/14327#issuecomment-3679127477) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. 💪 Opened PR [#12](undefined) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+3. 💪 Opened PR [#784](undefined) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+4. ❌ Labeled PR [#10204](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. ❌ Labeled PR [#10204](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. ❌ Labeled PR [#10204](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 💪 Opened PR [#10204](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. ❗ Opened issue [#9](https://github.com/gustavovalverde/zentity/issues/9) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+9. 🗣 Commented on [#374](https://github.com/zama-ai/relayer-sdk/issues/374#issuecomment-3674184896) in [zama-ai/relayer-sdk](https://github.com/zama-ai/relayer-sdk)
+10. ❗ Opened issue [#374](https://github.com/zama-ai/relayer-sdk/issues/374) in [zama-ai/relayer-sdk](https://github.com/zama-ai/relayer-sdk)
 <!--END_SECTION:activity-->
 
 </details>
