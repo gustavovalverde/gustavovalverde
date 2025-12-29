@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-2. ❗ Opened issue [#379](https://github.com/zama-ai/relayer-sdk/issues/379) in [zama-ai/relayer-sdk](https://github.com/zama-ai/relayer-sdk)
-3. ❗ Opened issue [#378](https://github.com/zama-ai/relayer-sdk/issues/378) in [zama-ai/relayer-sdk](https://github.com/zama-ai/relayer-sdk)
-4. 🗣 Commented on [#14327](https://github.com/anthropics/claude-code/issues/14327#issuecomment-3679127477) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-5. 💪 Opened PR [#12](undefined) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-6. 💪 Opened PR [#784](undefined) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-7. ❌ Labeled PR [#10204](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. ❌ Labeled PR [#10204](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. ❌ Labeled PR [#10204](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 💪 Opened PR [#10204](undefined) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. ❗ Opened issue [#24](https://github.com/gustavovalverde/zentity/issues/24) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+2. ❗ Opened issue [#23](https://github.com/gustavovalverde/zentity/issues/23) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+3. ❗ Opened issue [#22](https://github.com/gustavovalverde/zentity/issues/22) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+4. ❗ Opened issue [#3142](https://github.com/zama-ai/tfhe-rs/issues/3142) in [zama-ai/tfhe-rs](https://github.com/zama-ai/tfhe-rs)
+5. ❗ Opened issue [#4](https://github.com/gustavovalverde/zentity-fhevm-contracts/issues/4) in [gustavovalverde/zentity-fhevm-contracts](https://github.com/gustavovalverde/zentity-fhevm-contracts)
+6. ❗ Opened issue [#21](https://github.com/gustavovalverde/zentity/issues/21) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+7. 🗣 Commented on [#25370](https://github.com/oven-sh/bun/issues/25370#issuecomment-3694122681) in [oven-sh/bun](https://github.com/oven-sh/bun)
+8. 🗣 Commented on [#86866](https://github.com/vercel/next.js/issues/86866#issuecomment-3694122533) in [vercel/next.js](https://github.com/vercel/next.js)
+9. ❌ Merged PR [#20](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+10. 💪 Opened PR [#20](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
 <!--END_SECTION:activity-->
 
 </details>
