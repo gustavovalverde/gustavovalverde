@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24](https://github.com/gustavovalverde/zentity/issues/24) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-2. ❗ Opened issue [#23](https://github.com/gustavovalverde/zentity/issues/23) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-3. ❗ Opened issue [#22](https://github.com/gustavovalverde/zentity/issues/22) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-4. ❗ Opened issue [#3142](https://github.com/zama-ai/tfhe-rs/issues/3142) in [zama-ai/tfhe-rs](https://github.com/zama-ai/tfhe-rs)
-5. ❗ Opened issue [#4](https://github.com/gustavovalverde/zentity-fhevm-contracts/issues/4) in [gustavovalverde/zentity-fhevm-contracts](https://github.com/gustavovalverde/zentity-fhevm-contracts)
-6. ❗ Opened issue [#21](https://github.com/gustavovalverde/zentity/issues/21) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-7. 🗣 Commented on [#25370](https://github.com/oven-sh/bun/issues/25370#issuecomment-3694122681) in [oven-sh/bun](https://github.com/oven-sh/bun)
-8. 🗣 Commented on [#86866](https://github.com/vercel/next.js/issues/86866#issuecomment-3694122533) in [vercel/next.js](https://github.com/vercel/next.js)
-9. ❌ Merged PR [#20](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-10. 💪 Opened PR [#20](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+1. ❌ Merged PR [#34](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+2. 💪 Opened PR [#34](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+3. ❌ Merged PR [#33](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+4. 💪 Opened PR [#33](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+5. ❌ Merged PR [#32](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+6. 💪 Opened PR [#32](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+7. ❌ Merged PR [#31](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+8. ❌ Merged PR [#28](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+9. 💪 Opened PR [#31](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+10. 💪 Opened PR [#28](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
 <!--END_SECTION:activity-->
 
 </details>
