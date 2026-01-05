@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#34](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-2. 💪 Opened PR [#34](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-3. ❌ Merged PR [#33](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-4. 💪 Opened PR [#33](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-5. ❌ Merged PR [#32](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-6. 💪 Opened PR [#32](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-7. ❌ Merged PR [#31](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-8. ❌ Merged PR [#28](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-9. 💪 Opened PR [#31](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-10. 💪 Opened PR [#28](undefined) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+1. 🎉 Merged PR [#34](https://github.com/gustavovalverde/zentity/pull/34) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+2. 💪 Opened PR [#34](https://github.com/gustavovalverde/zentity/pull/34) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+3. 🎉 Merged PR [#33](https://github.com/gustavovalverde/zentity/pull/33) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+4. 💪 Opened PR [#33](https://github.com/gustavovalverde/zentity/pull/33) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+5. 🎉 Merged PR [#32](https://github.com/gustavovalverde/zentity/pull/32) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+6. 💪 Opened PR [#32](https://github.com/gustavovalverde/zentity/pull/32) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+7. 🎉 Merged PR [#31](https://github.com/gustavovalverde/zentity/pull/31) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+8. 🎉 Merged PR [#28](https://github.com/gustavovalverde/zentity/pull/28) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+9. 💪 Opened PR [#31](https://github.com/gustavovalverde/zentity/pull/31) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+10. 💪 Opened PR [#28](https://github.com/gustavovalverde/zentity/pull/28) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
 <!--END_SECTION:activity-->
 
 </details>
