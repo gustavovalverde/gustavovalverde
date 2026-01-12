@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/gustavovalverde/zentity/pull/36) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-2. 💪 Opened PR [#36](https://github.com/gustavovalverde/zentity/pull/36) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-3. 🗣 Commented on [#10157](https://github.com/ZcashFoundation/zebra/pull/10157#issuecomment-3719086761) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#10157](https://github.com/ZcashFoundation/zebra/pull/10157#issuecomment-3718885896) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🗣 Commented on [#784](https://github.com/zingolabs/zaino/pull/784#issuecomment-3718495985) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
-6. 💪 Opened PR [#35](https://github.com/gustavovalverde/zentity/pull/35) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-7. 💪 Opened PR [#7154](https://github.com/better-auth/better-auth/pull/7154) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 🗣 Commented on [#7151](https://github.com/better-auth/better-auth/issues/7151#issuecomment-3715862150) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. ❗ Opened issue [#7151](https://github.com/better-auth/better-auth/issues/7151) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 🎉 Merged PR [#34](https://github.com/gustavovalverde/zentity/pull/34) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+1. 💪 Opened PR [#45](https://github.com/gustavovalverde/zentity/pull/45) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+2. ℹ️ Labeled issue [#7771](https://github.com/anomalyco/opencode/issues/7771) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+3. ❗ Opened issue [#7771](https://github.com/anomalyco/opencode/issues/7771) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+4. 🎉 Merged PR [#43](https://github.com/gustavovalverde/zentity/pull/43) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+5. 💪 Opened PR [#43](https://github.com/gustavovalverde/zentity/pull/43) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+6. 🎉 Merged PR [#42](https://github.com/gustavovalverde/zentity/pull/42) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+7. 💪 Opened PR [#42](https://github.com/gustavovalverde/zentity/pull/42) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+8. 🎉 Merged PR [#35](https://github.com/gustavovalverde/zentity/pull/35) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+9. 💪 Opened PR [#7243](https://github.com/better-auth/better-auth/pull/7243) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. 🗣 Commented on [#7154](https://github.com/better-auth/better-auth/pull/7154#issuecomment-3725301866) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
