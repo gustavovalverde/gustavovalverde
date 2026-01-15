@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/gustavovalverde/zentity/pull/45) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-2. ℹ️ Labeled issue [#7771](https://github.com/anomalyco/opencode/issues/7771) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. ❗ Opened issue [#7771](https://github.com/anomalyco/opencode/issues/7771) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-4. 🎉 Merged PR [#43](https://github.com/gustavovalverde/zentity/pull/43) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-5. 💪 Opened PR [#43](https://github.com/gustavovalverde/zentity/pull/43) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-6. 🎉 Merged PR [#42](https://github.com/gustavovalverde/zentity/pull/42) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-7. 💪 Opened PR [#42](https://github.com/gustavovalverde/zentity/pull/42) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-8. 🎉 Merged PR [#35](https://github.com/gustavovalverde/zentity/pull/35) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-9. 💪 Opened PR [#7243](https://github.com/better-auth/better-auth/pull/7243) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 🗣 Commented on [#7154](https://github.com/better-auth/better-auth/pull/7154#issuecomment-3725301866) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 💪 Opened PR [#49](https://github.com/gustavovalverde/zentity/pull/49) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+2. 🗣 Commented on [#7355](https://github.com/better-auth/better-auth/issues/7355#issuecomment-3749330986) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. ❗ Opened issue [#7355](https://github.com/better-auth/better-auth/issues/7355) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 🗣 Commented on [#10180](https://github.com/ZcashFoundation/zebra/issues/10180#issuecomment-3748652482) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. ❌ Closed PR [#1](https://github.com/gustavovalverde/opaque/pull/1) in [gustavovalverde/opaque](https://github.com/gustavovalverde/opaque)
+6. 💪 Opened PR [#165](https://github.com/serenity-kit/opaque/pull/165) in [serenity-kit/opaque](https://github.com/serenity-kit/opaque)
+7. 🗣 Commented on [#150](https://github.com/serenity-kit/opaque/issues/150#issuecomment-3738025213) in [serenity-kit/opaque](https://github.com/serenity-kit/opaque)
+8. 💪 Opened PR [#1](https://github.com/gustavovalverde/opaque/pull/1) in [gustavovalverde/opaque](https://github.com/gustavovalverde/opaque)
+9. 🎉 Merged PR [#45](https://github.com/gustavovalverde/zentity/pull/45) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+10. 💪 Opened PR [#45](https://github.com/gustavovalverde/zentity/pull/45) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
 <!--END_SECTION:activity-->
 
 </details>
