@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](https://github.com/gustavovalverde/zentity/pull/49) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-2. 🗣 Commented on [#7355](https://github.com/better-auth/better-auth/issues/7355#issuecomment-3749330986) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. ❗ Opened issue [#7355](https://github.com/better-auth/better-auth/issues/7355) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🗣 Commented on [#10180](https://github.com/ZcashFoundation/zebra/issues/10180#issuecomment-3748652482) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. ❌ Closed PR [#1](https://github.com/gustavovalverde/opaque/pull/1) in [gustavovalverde/opaque](https://github.com/gustavovalverde/opaque)
-6. 💪 Opened PR [#165](https://github.com/serenity-kit/opaque/pull/165) in [serenity-kit/opaque](https://github.com/serenity-kit/opaque)
-7. 🗣 Commented on [#150](https://github.com/serenity-kit/opaque/issues/150#issuecomment-3738025213) in [serenity-kit/opaque](https://github.com/serenity-kit/opaque)
-8. 💪 Opened PR [#1](https://github.com/gustavovalverde/opaque/pull/1) in [gustavovalverde/opaque](https://github.com/gustavovalverde/opaque)
-9. 🎉 Merged PR [#45](https://github.com/gustavovalverde/zentity/pull/45) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-10. 💪 Opened PR [#45](https://github.com/gustavovalverde/zentity/pull/45) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+1. ❗ Opened issue [#7453](https://github.com/better-auth/better-auth/issues/7453) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🎉 Merged PR [#7407](https://github.com/better-auth/better-auth/pull/7407) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. ℹ️ Labeled PR [#10225](https://github.com/ZcashFoundation/zebra/pull/10225) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. ℹ️ Labeled PR [#10225](https://github.com/ZcashFoundation/zebra/pull/10225) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. ℹ️ Labeled PR [#10225](https://github.com/ZcashFoundation/zebra/pull/10225) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. ℹ️ Labeled PR [#10225](https://github.com/ZcashFoundation/zebra/pull/10225) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. ℹ️ Assigned PR [#10225](https://github.com/ZcashFoundation/zebra/pull/10225) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 💪 Opened PR [#10225](https://github.com/ZcashFoundation/zebra/pull/10225) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 🗣 Commented on [#10174](https://github.com/ZcashFoundation/zebra/pull/10174#issuecomment-3761148105) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. 🎉 Merged PR [#10219](https://github.com/ZcashFoundation/zebra/pull/10219) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
