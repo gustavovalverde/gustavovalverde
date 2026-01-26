@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7453](https://github.com/better-auth/better-auth/issues/7453#issuecomment-3777924210) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 💪 Opened PR [#7524](https://github.com/better-auth/better-auth/pull/7524) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 🗣 Commented on [#7453](https://github.com/better-auth/better-auth/issues/7453#issuecomment-3777638976) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🗣 Commented on [#7355](https://github.com/better-auth/better-auth/issues/7355#issuecomment-3777179981) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 💪 Opened PR [#7521](https://github.com/better-auth/better-auth/pull/7521) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 🎉 Merged PR [#10229](https://github.com/ZcashFoundation/zebra/pull/10229) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. ℹ️ Labeled PR [#10229](https://github.com/ZcashFoundation/zebra/pull/10229) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. ℹ️ Labeled PR [#10229](https://github.com/ZcashFoundation/zebra/pull/10229) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. ℹ️ Labeled PR [#10229](https://github.com/ZcashFoundation/zebra/pull/10229) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. ℹ️ Labeled PR [#10229](https://github.com/ZcashFoundation/zebra/pull/10229) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 💪 Opened PR [#63](https://github.com/gustavovalverde/zentity/pull/63) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+2. 🗣 Commented on [#469](https://github.com/zingolabs/zaino/pull/469#issuecomment-3788502930) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+3. 🎉 Merged PR [#784](https://github.com/zingolabs/zaino/pull/784) in [zingolabs/zaino](https://github.com/zingolabs/zaino)
+4. 🗣 Commented on [#7521](https://github.com/better-auth/better-auth/pull/7521#issuecomment-3784418733) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 🗣 Commented on [#3142](https://github.com/zama-ai/tfhe-rs/issues/3142#issuecomment-3783850912) in [zama-ai/tfhe-rs](https://github.com/zama-ai/tfhe-rs)
+6. 🗣 Commented on [#7453](https://github.com/better-auth/better-auth/issues/7453#issuecomment-3777924210) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. 💪 Opened PR [#7524](https://github.com/better-auth/better-auth/pull/7524) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. 🗣 Commented on [#7453](https://github.com/better-auth/better-auth/issues/7453#issuecomment-3777638976) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+9. 🗣 Commented on [#7355](https://github.com/better-auth/better-auth/issues/7355#issuecomment-3777179981) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. 💪 Opened PR [#7521](https://github.com/better-auth/better-auth/pull/7521) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
