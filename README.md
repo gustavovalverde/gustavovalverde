@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#165](https://github.com/serenity-kit/opaque/pull/165) in [serenity-kit/opaque](https://github.com/serenity-kit/opaque)
-2. 🎉 Merged PR [#10243](https://github.com/ZcashFoundation/zebra/pull/10243) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🎉 Merged PR [#10242](https://github.com/ZcashFoundation/zebra/pull/10242) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 💪 Opened PR [#14](https://github.com/ZcashFoundation/z3/pull/14) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-5. 💪 Opened PR [#3](https://github.com/alchemydc/z3/pull/3) in [alchemydc/z3](https://github.com/alchemydc/z3)
-6. 🎉 Merged PR [#12](https://github.com/ZcashFoundation/z3/pull/12) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-7. 🔒 Closed issue [#10212](https://github.com/ZcashFoundation/zebra/issues/10212) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#10212](https://github.com/ZcashFoundation/zebra/issues/10212#issuecomment-3817657900) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. ℹ️ Assigned issue [#10212](https://github.com/ZcashFoundation/zebra/issues/10212) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. ℹ️ Assigned PR [#10242](https://github.com/ZcashFoundation/zebra/pull/10242) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🎉 Merged PR [#10270](https://github.com/ZcashFoundation/zebra/pull/10270) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🗣 Commented on [#10204](https://github.com/ZcashFoundation/zebra/pull/10204#issuecomment-3847319560) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🗣 Commented on [#10263](https://github.com/ZcashFoundation/zebra/pull/10263#issuecomment-3847068925) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. ℹ️ Labeled PR [#10270](https://github.com/ZcashFoundation/zebra/pull/10270) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. ℹ️ Labeled PR [#10270](https://github.com/ZcashFoundation/zebra/pull/10270) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. ℹ️ Labeled PR [#10270](https://github.com/ZcashFoundation/zebra/pull/10270) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. ℹ️ Labeled PR [#10270](https://github.com/ZcashFoundation/zebra/pull/10270) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. ℹ️ Assigned PR [#10270](https://github.com/ZcashFoundation/zebra/pull/10270) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 💪 Opened PR [#10270](https://github.com/ZcashFoundation/zebra/pull/10270) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. ❗ Opened issue [#171](https://github.com/tianon/gosu/issues/171) in [tianon/gosu](https://github.com/tianon/gosu)
 <!--END_SECTION:activity-->
 
 </details>
