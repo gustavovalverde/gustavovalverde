@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#412](https://github.com/zama-ai/relayer-sdk/pull/412) in [zama-ai/relayer-sdk](https://github.com/zama-ai/relayer-sdk)
-2. ❗ Opened issue [#85](https://github.com/gustavovalverde/zentity/issues/85) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-3. 🗣 Commented on [#7453](https://github.com/better-auth/better-auth/issues/7453#issuecomment-3908139732) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🎉 Merged PR [#7873](https://github.com/better-auth/better-auth/pull/7873) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🗣 Commented on [#216](https://github.com/ZcashCommunityGrants/zcashcommunitygrants/issues/216#issuecomment-3899114240) in [ZcashCommunityGrants/zcashcommunitygrants](https://github.com/ZcashCommunityGrants/zcashcommunitygrants)
-6. 🎉 Merged PR [#10318](https://github.com/ZcashFoundation/zebra/pull/10318) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 💪 Opened PR [#10318](https://github.com/ZcashFoundation/zebra/pull/10318) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. ❌ Closed PR [#8](https://github.com/ZcashFoundation/z3/pull/8) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-9. 🎉 Merged PR [#14](https://github.com/ZcashFoundation/z3/pull/14) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-10. 🎉 Merged PR [#10263](https://github.com/ZcashFoundation/zebra/pull/10263) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🗣 Commented on [#101](https://github.com/zama-ai/fhevm-mocks/pull/101#issuecomment-3960102326) in [zama-ai/fhevm-mocks](https://github.com/zama-ai/fhevm-mocks)
+2. 🔒 Closed issue [#21](https://github.com/gustavovalverde/zentity/issues/21) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+3. 🗣 Commented on [#21](https://github.com/gustavovalverde/zentity/issues/21#issuecomment-3955108939) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+4. 🎉 Merged PR [#91](https://github.com/gustavovalverde/zentity/pull/91) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+5. ❌ Closed PR [#73](https://github.com/gustavovalverde/zentity/pull/73) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+6. 🗣 Commented on [#73](https://github.com/gustavovalverde/zentity/pull/73#issuecomment-3954975522) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+7. ❌ Closed PR [#38](https://github.com/gustavovalverde/zentity/pull/38) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+8. 🗣 Commented on [#38](https://github.com/gustavovalverde/zentity/pull/38#issuecomment-3954970130) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+9. ❌ Closed PR [#46](https://github.com/gustavovalverde/zentity/pull/46) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+10. 🗣 Commented on [#46](https://github.com/gustavovalverde/zentity/pull/46#issuecomment-3954970010) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
 <!--END_SECTION:activity-->
 
 </details>
