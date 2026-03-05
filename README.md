@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#10345](https://github.com/ZcashFoundation/zebra/pull/10345) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. ℹ️ Assigned issue [#10138](https://github.com/ZcashFoundation/zebra/issues/10138) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🗣 Commented on [#101](https://github.com/zama-ai/fhevm-mocks/pull/101#issuecomment-3960102326) in [zama-ai/fhevm-mocks](https://github.com/zama-ai/fhevm-mocks)
-4. 🔒 Closed issue [#21](https://github.com/gustavovalverde/zentity/issues/21) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-5. 🗣 Commented on [#21](https://github.com/gustavovalverde/zentity/issues/21#issuecomment-3955108939) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-6. 🎉 Merged PR [#91](https://github.com/gustavovalverde/zentity/pull/91) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-7. ❌ Closed PR [#73](https://github.com/gustavovalverde/zentity/pull/73) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-8. 🗣 Commented on [#73](https://github.com/gustavovalverde/zentity/pull/73#issuecomment-3954975522) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-9. ❌ Closed PR [#38](https://github.com/gustavovalverde/zentity/pull/38) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-10. 🗣 Commented on [#38](https://github.com/gustavovalverde/zentity/pull/38#issuecomment-3954970130) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+1. 🎉 Merged PR [#10204](https://github.com/ZcashFoundation/zebra/pull/10204) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🔒 Closed issue [#158](https://github.com/zkpassport/zkpassport-packages/issues/158) in [zkpassport/zkpassport-packages](https://github.com/zkpassport/zkpassport-packages)
+3. 🗣 Commented on [#158](https://github.com/zkpassport/zkpassport-packages/issues/158#issuecomment-3993505468) in [zkpassport/zkpassport-packages](https://github.com/zkpassport/zkpassport-packages)
+4. ❗ Opened issue [#158](https://github.com/zkpassport/zkpassport-packages/issues/158) in [zkpassport/zkpassport-packages](https://github.com/zkpassport/zkpassport-packages)
+5. ❗ Opened issue [#157](https://github.com/zkpassport/zkpassport-packages/issues/157) in [zkpassport/zkpassport-packages](https://github.com/zkpassport/zkpassport-packages)
+6. 🎉 Merged PR [#8292](https://github.com/better-auth/better-auth/pull/8292) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. 💪 Opened PR [#101](https://github.com/gustavovalverde/zentity/pull/101) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+8. ❗ Opened issue [#8335](https://github.com/better-auth/better-auth/issues/8335) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+9. 🎉 Merged PR [#7865](https://github.com/better-auth/better-auth/pull/7865) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. 🗣 Commented on [#7865](https://github.com/better-auth/better-auth/pull/7865#issuecomment-3988657482) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
