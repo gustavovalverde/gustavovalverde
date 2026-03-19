@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#109](https://github.com/gustavovalverde/zentity/issues/109) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-2. 🔒 Closed issue [#108](https://github.com/gustavovalverde/zentity/issues/108) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-3. ❗ Opened issue [#109](https://github.com/gustavovalverde/zentity/issues/109) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-4. ❗ Opened issue [#108](https://github.com/gustavovalverde/zentity/issues/108) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-5. 💪 Opened PR [#102](https://github.com/gustavovalverde/zentity/pull/102) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-6. 💪 Opened PR [#8485](https://github.com/better-auth/better-auth/pull/8485) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. ❌ Closed PR [#8484](https://github.com/better-auth/better-auth/pull/8484) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 💪 Opened PR [#8484](https://github.com/better-auth/better-auth/pull/8484) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 🗣 Commented on [#29](https://github.com/zcash/integration-tests/pull/29#issuecomment-4007045817) in [zcash/integration-tests](https://github.com/zcash/integration-tests)
-10. 💪 Opened PR [#10372](https://github.com/ZcashFoundation/zebra/pull/10372) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🗣 Commented on [#8636](https://github.com/better-auth/better-auth/pull/8636#issuecomment-4085187867) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. ❌ Closed PR [#8636](https://github.com/better-auth/better-auth/pull/8636) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 🎉 Merged PR [#7521](https://github.com/better-auth/better-auth/pull/7521) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 💪 Opened PR [#8678](https://github.com/better-auth/better-auth/pull/8678) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 💪 Opened PR [#8677](https://github.com/better-auth/better-auth/pull/8677) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. ❌ Closed PR [#93](https://github.com/gustavovalverde/zentity/pull/93) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+7. 🗣 Commented on [#93](https://github.com/gustavovalverde/zentity/pull/93#issuecomment-4078729329) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+8. 🗣 Commented on [#94](https://github.com/gustavovalverde/zentity/pull/94#issuecomment-4078729230) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+9. ❌ Closed PR [#94](https://github.com/gustavovalverde/zentity/pull/94) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+10. ❌ Closed PR [#95](https://github.com/gustavovalverde/zentity/pull/95) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
 <!--END_SECTION:activity-->
 
 </details>
