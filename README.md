@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#17](https://github.com/ZcashFoundation/z3/pull/17) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-2. 🗣 Commented on [#17](https://github.com/ZcashFoundation/z3/pull/17#issuecomment-4128033981) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-3. 💪 Opened PR [#24](https://github.com/ZcashFoundation/z3/pull/24) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-4. 🗣 Commented on [#22](https://github.com/ZcashFoundation/z3/pull/22#issuecomment-4124855848) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
-5. 🎉 Merged PR [#8761](https://github.com/better-auth/better-auth/pull/8761) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 💪 Opened PR [#8761](https://github.com/better-auth/better-auth/pull/8761) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 💪 Opened PR [#8760](https://github.com/better-auth/better-auth/pull/8760) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 🎉 Merged PR [#79](https://github.com/zcash/integration-tests/pull/79) in [zcash/integration-tests](https://github.com/zcash/integration-tests)
-9. 💪 Opened PR [#79](https://github.com/zcash/integration-tests/pull/79) in [zcash/integration-tests](https://github.com/zcash/integration-tests)
-10. 🔒 Closed issue [#10405](https://github.com/ZcashFoundation/zebra/issues/10405) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. ℹ️ Labeled PR [#8822](https://github.com/better-auth/better-auth/pull/8822) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. ℹ️ Assigned PR [#8822](https://github.com/better-auth/better-auth/pull/8822) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. ❌ Closed PR [#7280](https://github.com/better-auth/better-auth/pull/7280) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 🔒 Closed issue [#7041](https://github.com/better-auth/better-auth/issues/7041) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 🎉 Merged PR [#8815](https://github.com/better-auth/better-auth/pull/8815) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. ℹ️ Assigned PR [#8815](https://github.com/better-auth/better-auth/pull/8815) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. ℹ️ Assigned issue [#5935](https://github.com/better-auth/better-auth/issues/5935) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. ℹ️ Labeled issue [#7041](https://github.com/better-auth/better-auth/issues/7041) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+9. ℹ️ Assigned issue [#7041](https://github.com/better-auth/better-auth/issues/7041) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. 🔓 Reopened issue [#7041](https://github.com/better-auth/better-auth/issues/7041) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
