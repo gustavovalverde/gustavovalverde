@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#8822](https://github.com/better-auth/better-auth/pull/8822) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. ℹ️ Assigned PR [#8822](https://github.com/better-auth/better-auth/pull/8822) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. ❌ Closed PR [#7280](https://github.com/better-auth/better-auth/pull/7280) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🔒 Closed issue [#7041](https://github.com/better-auth/better-auth/issues/7041) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🎉 Merged PR [#8815](https://github.com/better-auth/better-auth/pull/8815) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. ℹ️ Assigned PR [#8815](https://github.com/better-auth/better-auth/pull/8815) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. ℹ️ Assigned issue [#5935](https://github.com/better-auth/better-auth/issues/5935) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. ℹ️ Labeled issue [#7041](https://github.com/better-auth/better-auth/issues/7041) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. ℹ️ Assigned issue [#7041](https://github.com/better-auth/better-auth/issues/7041) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 🔓 Reopened issue [#7041](https://github.com/better-auth/better-auth/issues/7041) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 💪 Opened PR [#8903](https://github.com/better-auth/better-auth/pull/8903) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🎉 Merged PR [#14](https://github.com/gustavovalverde/better-auth/pull/14) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+3. 💪 Opened PR [#14](https://github.com/gustavovalverde/better-auth/pull/14) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+4. 🎉 Merged PR [#13](https://github.com/gustavovalverde/better-auth/pull/13) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+5. 🎉 Merged PR [#12](https://github.com/gustavovalverde/better-auth/pull/12) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+6. 🎉 Merged PR [#11](https://github.com/gustavovalverde/better-auth/pull/11) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+7. 💪 Opened PR [#12](https://github.com/gustavovalverde/better-auth/pull/12) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+8. ℹ️ Labeled PR [#11](https://github.com/gustavovalverde/better-auth/pull/11) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+9. 💪 Opened PR [#11](https://github.com/gustavovalverde/better-auth/pull/11) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+10. 🗣 Commented on [#5](https://github.com/gustavovalverde/better-auth/pull/5#issuecomment-4172255253) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
