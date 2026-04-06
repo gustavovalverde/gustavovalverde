@@ -59,12 +59,12 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8903](https://github.com/better-auth/better-auth/pull/8903) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 🎉 Merged PR [#14](https://github.com/gustavovalverde/better-auth/pull/14) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
-3. 💪 Opened PR [#14](https://github.com/gustavovalverde/better-auth/pull/14) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
-4. 🎉 Merged PR [#13](https://github.com/gustavovalverde/better-auth/pull/13) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
-5. 🎉 Merged PR [#12](https://github.com/gustavovalverde/better-auth/pull/12) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
-6. 🎉 Merged PR [#11](https://github.com/gustavovalverde/better-auth/pull/11) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+1. ℹ️ Unlabeled PR [#7243](https://github.com/better-auth/better-auth/pull/7243) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🗣 Commented on [#8975](https://github.com/better-auth/better-auth/pull/8975#issuecomment-4189739510) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 💪 Opened PR [#8975](https://github.com/better-auth/better-auth/pull/8975) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 🗣 Commented on [#8836](https://github.com/better-auth/better-auth/pull/8836#issuecomment-4189421778) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. ❌ Closed PR [#7662](https://github.com/better-auth/better-auth/pull/7662) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. ❌ Closed PR [#8145](https://github.com/better-auth/better-auth/pull/8145) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 7. 💪 Opened PR [#12](https://github.com/gustavovalverde/better-auth/pull/12) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
 8. ℹ️ Labeled PR [#11](https://github.com/gustavovalverde/better-auth/pull/11) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
 9. 💪 Opened PR [#11](https://github.com/gustavovalverde/better-auth/pull/11) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
