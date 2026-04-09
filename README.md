@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled PR [#7243](https://github.com/better-auth/better-auth/pull/7243) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 🗣 Commented on [#8975](https://github.com/better-auth/better-auth/pull/8975#issuecomment-4189739510) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 💪 Opened PR [#8975](https://github.com/better-auth/better-auth/pull/8975) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🗣 Commented on [#8836](https://github.com/better-auth/better-auth/pull/8836#issuecomment-4189421778) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. ❌ Closed PR [#7662](https://github.com/better-auth/better-auth/pull/7662) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. ❌ Closed PR [#8145](https://github.com/better-auth/better-auth/pull/8145) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 💪 Opened PR [#12](https://github.com/gustavovalverde/better-auth/pull/12) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
-8. ℹ️ Labeled PR [#11](https://github.com/gustavovalverde/better-auth/pull/11) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
-9. 💪 Opened PR [#11](https://github.com/gustavovalverde/better-auth/pull/11) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
-10. 🗣 Commented on [#5](https://github.com/gustavovalverde/better-auth/pull/5#issuecomment-4172255253) in [gustavovalverde/better-auth](https://github.com/gustavovalverde/better-auth)
+1. 🗣 Commented on [#8997](https://github.com/better-auth/better-auth/issues/8997#issuecomment-4209635425) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🗣 Commented on [#9044](https://github.com/better-auth/better-auth/pull/9044#issuecomment-4209594634) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 💪 Opened PR [#9044](https://github.com/better-auth/better-auth/pull/9044) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 🗣 Commented on [#8711](https://github.com/better-auth/better-auth/pull/8711#issuecomment-4209201592) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 🎉 Merged PR [#9042](https://github.com/better-auth/better-auth/pull/9042) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. ℹ️ Labeled PR [#9042](https://github.com/better-auth/better-auth/pull/9042) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. ℹ️ Assigned PR [#9042](https://github.com/better-auth/better-auth/pull/9042) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. 💪 Opened PR [#9042](https://github.com/better-auth/better-auth/pull/9042) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+9. ℹ️ Labeled PR [#10454](https://github.com/ZcashFoundation/zebra/pull/10454) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. ℹ️ Labeled PR [#10454](https://github.com/ZcashFoundation/zebra/pull/10454) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
