@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: tomwhross/write-good-action@v1.5
+    - uses: tomwhross/write-good-action@v1.6
       id: write-good
 
     # Use the output from the `write-good` step
