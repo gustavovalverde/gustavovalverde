@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8426](https://github.com/better-auth/better-auth/issues/8426) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. ❌ Closed PR [#9192](https://github.com/better-auth/better-auth/pull/9192) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 🎉 Merged PR [#9226](https://github.com/better-auth/better-auth/pull/9226) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. ℹ️ Assigned PR [#8805](https://github.com/better-auth/better-auth/pull/8805) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🗣 Commented on [#4498](https://github.com/better-auth/better-auth/issues/4498#issuecomment-4269752353) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. ℹ️ Assigned PR [#9226](https://github.com/better-auth/better-auth/pull/9226) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. ℹ️ Unlabeled PR [#9226](https://github.com/better-auth/better-auth/pull/9226) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. ℹ️ Unlabeled PR [#9226](https://github.com/better-auth/better-auth/pull/9226) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 💪 Opened PR [#9226](https://github.com/better-auth/better-auth/pull/9226) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 🎉 Merged PR [#9223](https://github.com/better-auth/better-auth/pull/9223) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🎉 Merged PR [#9168](https://github.com/better-auth/better-auth/pull/9168) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. ❌ Closed PR [#5443](https://github.com/better-auth/better-auth/pull/5443) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. ❌ Closed PR [#4992](https://github.com/better-auth/better-auth/pull/4992) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. ❌ Closed PR [#5604](https://github.com/better-auth/better-auth/pull/5604) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 🔓 Reopened issue [#2351](https://github.com/better-auth/better-auth/issues/2351) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. ℹ️ Unlabeled issue [#2351](https://github.com/better-auth/better-auth/issues/2351) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. ℹ️ Labeled PR [#10503](https://github.com/ZcashFoundation/zebra/pull/10503) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. ℹ️ Labeled PR [#9304](https://github.com/better-auth/better-auth/pull/9304) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+9. ℹ️ Labeled PR [#9304](https://github.com/better-auth/better-auth/pull/9304) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. ℹ️ Assigned PR [#9304](https://github.com/better-auth/better-auth/pull/9304) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
