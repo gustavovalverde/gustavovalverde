@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9853](https://github.com/better-auth/better-auth/issues/9853) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. ℹ️ Labeled PR [#9850](https://github.com/better-auth/better-auth/pull/9850) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. ℹ️ Assigned PR [#9850](https://github.com/better-auth/better-auth/pull/9850) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 💪 Opened PR [#9850](https://github.com/better-auth/better-auth/pull/9850) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🎉 Merged PR [#9836](https://github.com/better-auth/better-auth/pull/9836) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 🎉 Merged PR [#9840](https://github.com/better-auth/better-auth/pull/9840) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 🎉 Merged PR [#9847](https://github.com/better-auth/better-auth/pull/9847) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 🎉 Merged PR [#9844](https://github.com/better-auth/better-auth/pull/9844) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 🎉 Merged PR [#9845](https://github.com/better-auth/better-auth/pull/9845) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 💪 Opened PR [#9845](https://github.com/better-auth/better-auth/pull/9845) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🚀 Published release [v0.5.0](https://github.com/ZcashFoundation/dnsseeder/releases/tag/v0.5.0) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
+2. 🎉 Merged PR [#62](https://github.com/ZcashFoundation/coredns-zcash/pull/62) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
+3. 🎉 Merged PR [#32](https://github.com/ZcashFoundation/dnsseeder/pull/32) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
+4. 💪 Opened PR [#62](https://github.com/ZcashFoundation/coredns-zcash/pull/62) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
+5. 💪 Opened PR [#32](https://github.com/ZcashFoundation/dnsseeder/pull/32) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
+6. 🎉 Merged PR [#9877](https://github.com/better-auth/better-auth/pull/9877) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. 🗣 Commented on [#9877](https://github.com/better-auth/better-auth/pull/9877#issuecomment-4604504676) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. ℹ️ Assigned PR [#9877](https://github.com/better-auth/better-auth/pull/9877) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+9. 💪 Opened PR [#9877](https://github.com/better-auth/better-auth/pull/9877) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. ℹ️ Labeled PR [#10665](https://github.com/ZcashFoundation/zebra/pull/10665) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
