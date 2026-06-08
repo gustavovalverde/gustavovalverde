@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.0](https://github.com/ZcashFoundation/dnsseeder/releases/tag/v0.5.0) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
-2. 🎉 Merged PR [#62](https://github.com/ZcashFoundation/coredns-zcash/pull/62) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
-3. 🎉 Merged PR [#32](https://github.com/ZcashFoundation/dnsseeder/pull/32) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
-4. 💪 Opened PR [#62](https://github.com/ZcashFoundation/coredns-zcash/pull/62) in [ZcashFoundation/coredns-zcash](https://github.com/ZcashFoundation/coredns-zcash)
-5. 💪 Opened PR [#32](https://github.com/ZcashFoundation/dnsseeder/pull/32) in [ZcashFoundation/dnsseeder](https://github.com/ZcashFoundation/dnsseeder)
-6. 🎉 Merged PR [#9877](https://github.com/better-auth/better-auth/pull/9877) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 🗣 Commented on [#9877](https://github.com/better-auth/better-auth/pull/9877#issuecomment-4604504676) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. ℹ️ Assigned PR [#9877](https://github.com/better-auth/better-auth/pull/9877) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 💪 Opened PR [#9877](https://github.com/better-auth/better-auth/pull/9877) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. ℹ️ Labeled PR [#10665](https://github.com/ZcashFoundation/zebra/pull/10665) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🗣 Commented on [#9278](https://github.com/better-auth/better-auth/pull/9278#issuecomment-4644678181) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. ❌ Closed PR [#8707](https://github.com/better-auth/better-auth/pull/8707) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 🗣 Commented on [#8707](https://github.com/better-auth/better-auth/pull/8707#issuecomment-4644653359) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 🎉 Merged PR [#9929](https://github.com/better-auth/better-auth/pull/9929) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 🗣 Commented on [#9536](https://github.com/better-auth/better-auth/pull/9536#issuecomment-4644592235) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. ❌ Closed PR [#9536](https://github.com/better-auth/better-auth/pull/9536) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. 🔒 Closed issue [#9486](https://github.com/better-auth/better-auth/issues/9486) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. 🗣 Commented on [#9486](https://github.com/better-auth/better-auth/issues/9486#issuecomment-4644591584) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+9. 💪 Opened PR [#9930](https://github.com/better-auth/better-auth/pull/9930) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. 💪 Opened PR [#9929](https://github.com/better-auth/better-auth/pull/9929) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
