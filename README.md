@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9278](https://github.com/better-auth/better-auth/pull/9278#issuecomment-4644678181) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. ❌ Closed PR [#8707](https://github.com/better-auth/better-auth/pull/8707) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 🗣 Commented on [#8707](https://github.com/better-auth/better-auth/pull/8707#issuecomment-4644653359) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🎉 Merged PR [#9929](https://github.com/better-auth/better-auth/pull/9929) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🗣 Commented on [#9536](https://github.com/better-auth/better-auth/pull/9536#issuecomment-4644592235) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. ❌ Closed PR [#9536](https://github.com/better-auth/better-auth/pull/9536) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 🔒 Closed issue [#9486](https://github.com/better-auth/better-auth/issues/9486) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 🗣 Commented on [#9486](https://github.com/better-auth/better-auth/issues/9486#issuecomment-4644591584) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 💪 Opened PR [#9930](https://github.com/better-auth/better-auth/pull/9930) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 💪 Opened PR [#9929](https://github.com/better-auth/better-auth/pull/9929) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. ❗ Opened issue [#44](https://github.com/ZcashFoundation/dnsseederNG/issues/44) in [ZcashFoundation/dnsseederNG](https://github.com/ZcashFoundation/dnsseederNG)
+2. ❗ Opened issue [#43](https://github.com/ZcashFoundation/dnsseederNG/issues/43) in [ZcashFoundation/dnsseederNG](https://github.com/ZcashFoundation/dnsseederNG)
+3. 🎉 Merged PR [#45](https://github.com/ZcashFoundation/z3/pull/45) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+4. 💪 Opened PR [#45](https://github.com/ZcashFoundation/z3/pull/45) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+5. 🗣 Commented on [#35](https://github.com/ZcashFoundation/z3/issues/35#issuecomment-4674082665) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+6. 🔒 Closed issue [#35](https://github.com/ZcashFoundation/z3/issues/35) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+7. 🔒 Closed issue [#42](https://github.com/ZcashFoundation/z3/issues/42) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+8. 🗣 Commented on [#42](https://github.com/ZcashFoundation/z3/issues/42#issuecomment-4674077523) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+9. 🎉 Merged PR [#43](https://github.com/ZcashFoundation/z3/pull/43) in [ZcashFoundation/z3](https://github.com/ZcashFoundation/z3)
+10. ❗ Opened issue [#5](https://github.com/gustavovalverde/zinder/issues/5) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
 <!--END_SECTION:activity-->
 
 </details>
