@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#10171](https://github.com/better-auth/better-auth/pull/10171) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 💪 Opened PR [#10171](https://github.com/better-auth/better-auth/pull/10171) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 💪 Opened PR [#10170](https://github.com/better-auth/better-auth/pull/10170) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 💪 Opened PR [#10169](https://github.com/better-auth/better-auth/pull/10169) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 💪 Opened PR [#10166](https://github.com/better-auth/better-auth/pull/10166) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. ❌ Closed PR [#10165](https://github.com/better-auth/better-auth/pull/10165) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 💪 Opened PR [#10159](https://github.com/better-auth/better-auth/pull/10159) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 🎉 Merged PR [#10155](https://github.com/better-auth/better-auth/pull/10155) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 🎉 Merged PR [#10154](https://github.com/better-auth/better-auth/pull/10154) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 🎉 Merged PR [#10153](https://github.com/better-auth/better-auth/pull/10153) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🎉 Merged PR [#10799](https://github.com/ZcashFoundation/zebra/pull/10799) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. ℹ️ Labeled PR [#10799](https://github.com/ZcashFoundation/zebra/pull/10799) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. ℹ️ Labeled PR [#10799](https://github.com/ZcashFoundation/zebra/pull/10799) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. ℹ️ Labeled PR [#10799](https://github.com/ZcashFoundation/zebra/pull/10799) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. ℹ️ Labeled PR [#10799](https://github.com/ZcashFoundation/zebra/pull/10799) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 💪 Opened PR [#10799](https://github.com/ZcashFoundation/zebra/pull/10799) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. ℹ️ Assigned PR [#10798](https://github.com/ZcashFoundation/zebra/pull/10798) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 💪 Opened PR [#10798](https://github.com/ZcashFoundation/zebra/pull/10798) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 💪 Opened PR [#10210](https://github.com/better-auth/better-auth/pull/10210) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. 🎉 Merged PR [#10457](https://github.com/ZcashFoundation/zebra/pull/10457) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
