@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10803](https://github.com/ZcashFoundation/zebra/issues/10803) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🗣 Commented on [#10818](https://github.com/ZcashFoundation/zebra/pull/10818#issuecomment-4859686284) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🎉 Merged PR [#10767](https://github.com/ZcashFoundation/zebra/pull/10767) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🗣 Commented on [#10767](https://github.com/ZcashFoundation/zebra/pull/10767#issuecomment-4859681175) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 💪 Opened PR [#10293](https://github.com/better-auth/better-auth/pull/10293) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 💪 Opened PR [#10292](https://github.com/better-auth/better-auth/pull/10292) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. ℹ️ Labeled PR [#10789](https://github.com/ZcashFoundation/zebra/pull/10789) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#10836](https://github.com/ZcashFoundation/zebra/pull/10836#issuecomment-4855510871) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🎉 Merged PR [#10867](https://github.com/ZcashFoundation/zebra/pull/10867) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 🎉 Merged PR [#10869](https://github.com/ZcashFoundation/zebra/pull/10869) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. ❗ Opened issue [#4](https://github.com/gustavovalverde/zally/issues/4) in [gustavovalverde/zally](https://github.com/gustavovalverde/zally)
+2. ❗ Opened issue [#5](https://github.com/gustavovalverde/zpay/issues/5) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
+3. ❗ Opened issue [#4](https://github.com/gustavovalverde/zpay/issues/4) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
+4. ❗ Opened issue [#3](https://github.com/gustavovalverde/zpay/issues/3) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
+5. ❗ Opened issue [#2](https://github.com/gustavovalverde/zpay/issues/2) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
+6. ❗ Opened issue [#1](https://github.com/gustavovalverde/zpay/issues/1) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
+7. 💪 Opened PR [#11](https://github.com/gustavovalverde/zinder/pull/11) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+8. 🎉 Merged PR [#10](https://github.com/gustavovalverde/zinder/pull/10) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+9. 💪 Opened PR [#10](https://github.com/gustavovalverde/zinder/pull/10) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+10. 🎉 Merged PR [#8](https://github.com/gustavovalverde/zinder/pull/8) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
 <!--END_SECTION:activity-->
 
 </details>
