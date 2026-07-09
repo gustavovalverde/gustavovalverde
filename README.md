@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/gustavovalverde/zally/issues/4) in [gustavovalverde/zally](https://github.com/gustavovalverde/zally)
-2. ❗ Opened issue [#5](https://github.com/gustavovalverde/zpay/issues/5) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
-3. ❗ Opened issue [#4](https://github.com/gustavovalverde/zpay/issues/4) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
-4. ❗ Opened issue [#3](https://github.com/gustavovalverde/zpay/issues/3) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
-5. ❗ Opened issue [#2](https://github.com/gustavovalverde/zpay/issues/2) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
-6. ❗ Opened issue [#1](https://github.com/gustavovalverde/zpay/issues/1) in [gustavovalverde/zpay](https://github.com/gustavovalverde/zpay)
-7. 💪 Opened PR [#11](https://github.com/gustavovalverde/zinder/pull/11) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-8. 🎉 Merged PR [#10](https://github.com/gustavovalverde/zinder/pull/10) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-9. 💪 Opened PR [#10](https://github.com/gustavovalverde/zinder/pull/10) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-10. 🎉 Merged PR [#8](https://github.com/gustavovalverde/zinder/pull/8) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+1. 🗣 Commented on [#2546](https://github.com/zcash/librustzcash/pull/2546#issuecomment-4917563463) in [zcash/librustzcash](https://github.com/zcash/librustzcash)
+2. 🗣 Commented on [#147](https://github.com/zcash/incrementalmerkletree/pull/147#issuecomment-4916987410) in [zcash/incrementalmerkletree](https://github.com/zcash/incrementalmerkletree)
+3. 🗣 Commented on [#2546](https://github.com/zcash/librustzcash/pull/2546#issuecomment-4916845154) in [zcash/librustzcash](https://github.com/zcash/librustzcash)
+4. 🎉 Merged PR [#192](https://github.com/zcash/incrementalmerkletree/pull/192) in [zcash/incrementalmerkletree](https://github.com/zcash/incrementalmerkletree)
+5. 💪 Opened PR [#192](https://github.com/zcash/incrementalmerkletree/pull/192) in [zcash/incrementalmerkletree](https://github.com/zcash/incrementalmerkletree)
+6. ❗ Opened issue [#12](https://github.com/gustavovalverde/zinder/issues/12) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+7. 💪 Opened PR [#2553](https://github.com/zcash/librustzcash/pull/2553) in [zcash/librustzcash](https://github.com/zcash/librustzcash)
+8. 🎉 Merged PR [#2412](https://github.com/zcash/librustzcash/pull/2412) in [zcash/librustzcash](https://github.com/zcash/librustzcash)
+9. 💪 Opened PR [#2546](https://github.com/zcash/librustzcash/pull/2546) in [zcash/librustzcash](https://github.com/zcash/librustzcash)
+10. 💪 Opened PR [#2543](https://github.com/zcash/librustzcash/pull/2543) in [zcash/librustzcash](https://github.com/zcash/librustzcash)
 <!--END_SECTION:activity-->
 
 </details>
