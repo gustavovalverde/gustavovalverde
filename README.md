@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/gustavovalverde/zinder/pull/16) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-2. 🗣 Commented on [#147](https://github.com/zcash/incrementalmerkletree/pull/147#issuecomment-4952829257) in [zcash/incrementalmerkletree](https://github.com/zcash/incrementalmerkletree)
-3. 💪 Opened PR [#591](https://github.com/zcash/zallet/pull/591) in [zcash/zallet](https://github.com/zcash/zallet)
-4. 💪 Opened PR [#16](https://github.com/gustavovalverde/zinder/pull/16) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-5. 🎉 Merged PR [#2603](https://github.com/zcash/librustzcash/pull/2603) in [zcash/librustzcash](https://github.com/zcash/librustzcash)
-6. 🎉 Merged PR [#2546](https://github.com/zcash/librustzcash/pull/2546) in [zcash/librustzcash](https://github.com/zcash/librustzcash)
-7. 💪 Opened PR [#15](https://github.com/gustavovalverde/zinder/pull/15) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-8. 🗣 Commented on [#7](https://github.com/gustavovalverde/zally/issues/7#issuecomment-4950307317) in [gustavovalverde/zally](https://github.com/gustavovalverde/zally)
-9. 🗣 Commented on [#7](https://github.com/gustavovalverde/zally/issues/7#issuecomment-4950263905) in [gustavovalverde/zally](https://github.com/gustavovalverde/zally)
-10. 🔒 Closed issue [#7](https://github.com/gustavovalverde/zally/issues/7) in [gustavovalverde/zally](https://github.com/gustavovalverde/zally)
+1. 💪 Opened PR [#10411](https://github.com/better-auth/better-auth/pull/10411) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 💪 Opened PR [#10410](https://github.com/better-auth/better-auth/pull/10410) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 💪 Opened PR [#10409](https://github.com/better-auth/better-auth/pull/10409) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 💪 Opened PR [#10408](https://github.com/better-auth/better-auth/pull/10408) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 💪 Opened PR [#10406](https://github.com/better-auth/better-auth/pull/10406) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. 🗣 Commented on [#10390](https://github.com/better-auth/better-auth/pull/10390#issuecomment-4978202651) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. 💪 Opened PR [#10403](https://github.com/better-auth/better-auth/pull/10403) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. 🎉 Merged PR [#58](https://github.com/ZcashFoundation/zeeder/pull/58) in [ZcashFoundation/zeeder](https://github.com/ZcashFoundation/zeeder)
+9. 💪 Opened PR [#10402](https://github.com/better-auth/better-auth/pull/10402) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. 💪 Opened PR [#10390](https://github.com/better-auth/better-auth/pull/10390) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
