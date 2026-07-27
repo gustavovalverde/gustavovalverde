@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/gustavovalverde/zinder/pull/28) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-2. 🗣 Commented on [#11060](https://github.com/ZcashFoundation/zebra/pull/11060#issuecomment-5052086710) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 💪 Opened PR [#11060](https://github.com/ZcashFoundation/zebra/pull/11060) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. ❗ Opened issue [#11059](https://github.com/ZcashFoundation/zebra/issues/11059) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🎉 Merged PR [#10234](https://github.com/better-auth/better-auth/pull/10234) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 🎉 Merged PR [#10480](https://github.com/better-auth/better-auth/pull/10480) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 💪 Opened PR [#33](https://github.com/gustavovalverde/zinder/pull/33) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-8. ❌ Closed PR [#10281](https://github.com/better-auth/better-auth/pull/10281) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 🗣 Commented on [#10281](https://github.com/better-auth/better-auth/pull/10281#issuecomment-5047601416) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. ℹ️ Labeled PR [#10480](https://github.com/better-auth/better-auth/pull/10480) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 💪 Opened PR [#53](https://github.com/gustavovalverde/zinder/pull/53) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+2. 🎉 Merged PR [#52](https://github.com/gustavovalverde/zinder/pull/52) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+3. 🎉 Merged PR [#51](https://github.com/gustavovalverde/zinder/pull/51) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+4. 🎉 Merged PR [#50](https://github.com/gustavovalverde/zinder/pull/50) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+5. 💪 Opened PR [#52](https://github.com/gustavovalverde/zinder/pull/52) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+6. 💪 Opened PR [#51](https://github.com/gustavovalverde/zinder/pull/51) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+7. 💪 Opened PR [#50](https://github.com/gustavovalverde/zinder/pull/50) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+8. ❗ Opened issue [#49](https://github.com/gustavovalverde/zinder/issues/49) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+9. 🎉 Merged PR [#48](https://github.com/gustavovalverde/zinder/pull/48) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+10. 💪 Opened PR [#48](https://github.com/gustavovalverde/zinder/pull/48) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
 <!--END_SECTION:activity-->
 
 </details>
