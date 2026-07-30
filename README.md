@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#53](https://github.com/gustavovalverde/zinder/pull/53) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-2. 🎉 Merged PR [#52](https://github.com/gustavovalverde/zinder/pull/52) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-3. 🎉 Merged PR [#51](https://github.com/gustavovalverde/zinder/pull/51) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-4. 🎉 Merged PR [#50](https://github.com/gustavovalverde/zinder/pull/50) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-5. 💪 Opened PR [#52](https://github.com/gustavovalverde/zinder/pull/52) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-6. 💪 Opened PR [#51](https://github.com/gustavovalverde/zinder/pull/51) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-7. 💪 Opened PR [#50](https://github.com/gustavovalverde/zinder/pull/50) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-8. ❗ Opened issue [#49](https://github.com/gustavovalverde/zinder/issues/49) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-9. 🎉 Merged PR [#48](https://github.com/gustavovalverde/zinder/pull/48) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-10. 💪 Opened PR [#48](https://github.com/gustavovalverde/zinder/pull/48) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+1. 🎉 Merged PR [#11105](https://github.com/ZcashFoundation/zebra/pull/11105) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 💪 Opened PR [#701](https://github.com/zcash/zallet/pull/701) in [zcash/zallet](https://github.com/zcash/zallet)
+3. 💪 Opened PR [#185](https://github.com/zcash/integration-tests/pull/185) in [zcash/integration-tests](https://github.com/zcash/integration-tests)
+4. ❗ Opened issue [#700](https://github.com/zcash/zallet/issues/700) in [zcash/zallet](https://github.com/zcash/zallet)
+5. ❗ Opened issue [#184](https://github.com/zcash/integration-tests/issues/184) in [zcash/integration-tests](https://github.com/zcash/integration-tests)
+6. 🎉 Merged PR [#11141](https://github.com/ZcashFoundation/zebra/pull/11141) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 🎉 Merged PR [#68](https://github.com/gustavovalverde/zinder/pull/68) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+8. 💪 Opened PR [#68](https://github.com/gustavovalverde/zinder/pull/68) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+9. 🎉 Merged PR [#67](https://github.com/gustavovalverde/zinder/pull/67) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
+10. 🎉 Merged PR [#60](https://github.com/gustavovalverde/zinder/pull/60) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
 <!--END_SECTION:activity-->
 
 </details>
