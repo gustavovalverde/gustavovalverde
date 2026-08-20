@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#86](https://github.com/gustavovalverde/zinder/issues/86) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-2. 🎉 Merged PR [#88](https://github.com/gustavovalverde/zinder/pull/88) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-3. ℹ️ Unlabeled issue [#86](https://github.com/gustavovalverde/zinder/issues/86) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-4. 💪 Opened PR [#88](https://github.com/gustavovalverde/zinder/pull/88) in [gustavovalverde/zinder](https://github.com/gustavovalverde/zinder)
-5. 💪 Opened PR [#195](https://github.com/gustavovalverde/zentity/pull/195) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-6. ❌ Closed PR [#10808](https://github.com/better-auth/better-auth/pull/10808) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 🎉 Merged PR [#10812](https://github.com/better-auth/better-auth/pull/10812) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 🎉 Merged PR [#10811](https://github.com/better-auth/better-auth/pull/10811) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 💪 Opened PR [#10812](https://github.com/better-auth/better-auth/pull/10812) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 💪 Opened PR [#10811](https://github.com/better-auth/better-auth/pull/10811) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🎉 Merged PR [#96](https://github.com/ZcashFoundation/zinder/pull/96) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+2. 💪 Opened PR [#96](https://github.com/ZcashFoundation/zinder/pull/96) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+3. ℹ️ Assigned PR [#10291](https://github.com/better-auth/better-auth/pull/10291) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 🎉 Merged PR [#10863](https://github.com/better-auth/better-auth/pull/10863) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 💪 Opened PR [#10863](https://github.com/better-auth/better-auth/pull/10863) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. 💪 Opened PR [#95](https://github.com/ZcashFoundation/zinder/pull/95) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+7. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+8. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+9. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+10. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
 <!--END_SECTION:activity-->
 
 </details>
