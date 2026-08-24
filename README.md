@@ -59,13 +59,13 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#96](https://github.com/ZcashFoundation/zinder/pull/96) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-2. 💪 Opened PR [#96](https://github.com/ZcashFoundation/zinder/pull/96) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-3. ℹ️ Assigned PR [#10291](https://github.com/better-auth/better-auth/pull/10291) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🎉 Merged PR [#10863](https://github.com/better-auth/better-auth/pull/10863) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 💪 Opened PR [#10863](https://github.com/better-auth/better-auth/pull/10863) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 💪 Opened PR [#95](https://github.com/ZcashFoundation/zinder/pull/95) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-7. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+1. 💪 Opened PR [#10909](https://github.com/better-auth/better-auth/pull/10909) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🎉 Merged PR [#96](https://github.com/ZcashFoundation/zinder/pull/96) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+3. 💪 Opened PR [#96](https://github.com/ZcashFoundation/zinder/pull/96) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+4. ℹ️ Assigned PR [#10291](https://github.com/better-auth/better-auth/pull/10291) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 🎉 Merged PR [#10863](https://github.com/better-auth/better-auth/pull/10863) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. 💪 Opened PR [#10863](https://github.com/better-auth/better-auth/pull/10863) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. 💪 Opened PR [#95](https://github.com/ZcashFoundation/zinder/pull/95) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
 8. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
 9. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
 10. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
