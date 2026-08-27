@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10909](https://github.com/better-auth/better-auth/pull/10909) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 🎉 Merged PR [#96](https://github.com/ZcashFoundation/zinder/pull/96) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-3. 💪 Opened PR [#96](https://github.com/ZcashFoundation/zinder/pull/96) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-4. ℹ️ Assigned PR [#10291](https://github.com/better-auth/better-auth/pull/10291) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🎉 Merged PR [#10863](https://github.com/better-auth/better-auth/pull/10863) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 💪 Opened PR [#10863](https://github.com/better-auth/better-auth/pull/10863) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 💪 Opened PR [#95](https://github.com/ZcashFoundation/zinder/pull/95) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-8. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-9. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-10. ℹ️ Labeled issue [#94](https://github.com/ZcashFoundation/zinder/issues/94) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+1. 🗣 Commented on [#10970](https://github.com/better-auth/better-auth/pull/10970#issuecomment-5427930721) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🗣 Commented on [#2](https://github.com/ZcashFoundation/merge-queue-canary/pull/2#issuecomment-5427630745) in [ZcashFoundation/merge-queue-canary](https://github.com/ZcashFoundation/merge-queue-canary)
+3. 🗣 Commented on [#1](https://github.com/ZcashFoundation/merge-queue-canary/pull/1#issuecomment-5427630623) in [ZcashFoundation/merge-queue-canary](https://github.com/ZcashFoundation/merge-queue-canary)
+4. ℹ️ Labeled PR [#11342](https://github.com/ZcashFoundation/zebra/pull/11342) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 💪 Opened PR [#11342](https://github.com/ZcashFoundation/zebra/pull/11342) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 💪 Opened PR [#25](https://github.com/ZcashFoundation/zc/pull/25) in [ZcashFoundation/zc](https://github.com/ZcashFoundation/zc)
+7. ❌ Closed PR [#10970](https://github.com/better-auth/better-auth/pull/10970) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. 💪 Opened PR [#11330](https://github.com/ZcashFoundation/zebra/pull/11330) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 🎉 Merged PR [#1](https://github.com/ZcashFoundation/merge-queue-canary/pull/1) in [ZcashFoundation/merge-queue-canary](https://github.com/ZcashFoundation/merge-queue-canary)
+10. ℹ️ Unlabeled PR [#1](https://github.com/ZcashFoundation/merge-queue-canary/pull/1) in [ZcashFoundation/merge-queue-canary](https://github.com/ZcashFoundation/merge-queue-canary)
 <!--END_SECTION:activity-->
 
 </details>
