@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/ZcashFoundation/zc/pull/25) in [ZcashFoundation/zc](https://github.com/ZcashFoundation/zc)
-2. 🎉 Merged PR [#10986](https://github.com/better-auth/better-auth/pull/10986) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 🎉 Merged PR [#10575](https://github.com/better-auth/better-auth/pull/10575) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🎉 Merged PR [#10966](https://github.com/better-auth/better-auth/pull/10966) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🎉 Merged PR [#10969](https://github.com/better-auth/better-auth/pull/10969) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 🎉 Merged PR [#11108](https://github.com/ZcashFoundation/zebra/pull/11108) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 🎉 Merged PR [#11330](https://github.com/ZcashFoundation/zebra/pull/11330) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🗣 Commented on [#10970](https://github.com/better-auth/better-auth/pull/10970#issuecomment-5427930721) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 🎉 Merged PR [#1](https://github.com/ZcashFoundation/merge-queue-canary/pull/1) in [ZcashFoundation/merge-queue-canary](https://github.com/ZcashFoundation/merge-queue-canary)
-10. ℹ️ Unlabeled PR [#1](https://github.com/ZcashFoundation/merge-queue-canary/pull/1) in [ZcashFoundation/merge-queue-canary](https://github.com/ZcashFoundation/merge-queue-canary)
+1. 🎉 Merged PR [#713](https://github.com/zcash/zallet/pull/713) in [zcash/zallet](https://github.com/zcash/zallet)
+2. 🎉 Merged PR [#712](https://github.com/zcash/zallet/pull/712) in [zcash/zallet](https://github.com/zcash/zallet)
+3. 🎉 Merged PR [#25](https://github.com/ZcashFoundation/zc/pull/25) in [ZcashFoundation/zc](https://github.com/ZcashFoundation/zc)
+4. 🎉 Merged PR [#10986](https://github.com/better-auth/better-auth/pull/10986) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 🎉 Merged PR [#10575](https://github.com/better-auth/better-auth/pull/10575) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. 🎉 Merged PR [#10966](https://github.com/better-auth/better-auth/pull/10966) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. 🎉 Merged PR [#10969](https://github.com/better-auth/better-auth/pull/10969) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. 🎉 Merged PR [#11108](https://github.com/ZcashFoundation/zebra/pull/11108) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 🎉 Merged PR [#11330](https://github.com/ZcashFoundation/zebra/pull/11330) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+10. 🗣 Commented on [#10970](https://github.com/better-auth/better-auth/pull/10970#issuecomment-5427930721) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
