@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/ZcashFoundation/cargo-release/pull/37) in [ZcashFoundation/cargo-release](https://github.com/ZcashFoundation/cargo-release)
-2. 💪 Opened PR [#11458](https://github.com/ZcashFoundation/zebra/pull/11458) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 💪 Opened PR [#33](https://github.com/ZcashFoundation/cargo-release/pull/33) in [ZcashFoundation/cargo-release](https://github.com/ZcashFoundation/cargo-release)
-4. 💪 Opened PR [#11435](https://github.com/ZcashFoundation/zebra/pull/11435) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 💪 Opened PR [#11434](https://github.com/ZcashFoundation/zebra/pull/11434) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. ❗ Opened issue [#11433](https://github.com/ZcashFoundation/zebra/issues/11433) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 🎉 Merged PR [#11417](https://github.com/ZcashFoundation/zebra/pull/11417) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 💪 Opened PR [#11417](https://github.com/ZcashFoundation/zebra/pull/11417) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 🎉 Merged PR [#11196](https://github.com/better-auth/better-auth/pull/11196) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 💪 Opened PR [#11198](https://github.com/better-auth/better-auth/pull/11198) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🗣 Commented on [#11501](https://github.com/ZcashFoundation/zebra/pull/11501#issuecomment-5801598629) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 💪 Opened PR [#11507](https://github.com/ZcashFoundation/zebra/pull/11507) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 💪 Opened PR [#11506](https://github.com/ZcashFoundation/zebra/pull/11506) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. ❗ Opened issue [#11504](https://github.com/ZcashFoundation/zebra/issues/11504) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 💪 Opened PR [#11501](https://github.com/ZcashFoundation/zebra/pull/11501) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 💪 Opened PR [#11499](https://github.com/ZcashFoundation/zebra/pull/11499) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 🎉 Merged PR [#7](https://github.com/gustavovalverde/skills/pull/7) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
+8. 💪 Opened PR [#7](https://github.com/gustavovalverde/skills/pull/7) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
+9. 🎉 Merged PR [#6](https://github.com/gustavovalverde/skills/pull/6) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
+10. 💪 Opened PR [#6](https://github.com/gustavovalverde/skills/pull/6) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
 <!--END_SECTION:activity-->
 
 </details>
