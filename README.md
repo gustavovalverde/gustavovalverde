@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11501](https://github.com/ZcashFoundation/zebra/pull/11501#issuecomment-5801598629) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 💪 Opened PR [#11507](https://github.com/ZcashFoundation/zebra/pull/11507) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 💪 Opened PR [#11506](https://github.com/ZcashFoundation/zebra/pull/11506) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. ❗ Opened issue [#11504](https://github.com/ZcashFoundation/zebra/issues/11504) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 💪 Opened PR [#11501](https://github.com/ZcashFoundation/zebra/pull/11501) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 💪 Opened PR [#11499](https://github.com/ZcashFoundation/zebra/pull/11499) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 🎉 Merged PR [#7](https://github.com/gustavovalverde/skills/pull/7) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
-8. 💪 Opened PR [#7](https://github.com/gustavovalverde/skills/pull/7) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
-9. 🎉 Merged PR [#6](https://github.com/gustavovalverde/skills/pull/6) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
-10. 💪 Opened PR [#6](https://github.com/gustavovalverde/skills/pull/6) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
+1. 💪 Opened PR [#213](https://github.com/gustavovalverde/zentity/pull/213) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+2. 💪 Opened PR [#212](https://github.com/gustavovalverde/zentity/pull/212) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+3. 💪 Opened PR [#211](https://github.com/gustavovalverde/zentity/pull/211) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+4. 💪 Opened PR [#210](https://github.com/gustavovalverde/zentity/pull/210) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+5. 💪 Opened PR [#209](https://github.com/gustavovalverde/zentity/pull/209) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+6. 🎉 Merged PR [#11402](https://github.com/better-auth/better-auth/pull/11402) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. ❌ Closed PR [#10611](https://github.com/better-auth/better-auth/pull/10611) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. 💪 Opened PR [#11402](https://github.com/better-auth/better-auth/pull/11402) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+9. ❌ Closed PR [#17647](https://github.com/vercel/vercel/pull/17647) in [vercel/vercel](https://github.com/vercel/vercel)
+10. 🎉 Merged PR [#231](https://github.com/vercel/vercel-plugin/pull/231) in [vercel/vercel-plugin](https://github.com/vercel/vercel-plugin)
 <!--END_SECTION:activity-->
 
 </details>
