@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#213](https://github.com/gustavovalverde/zentity/pull/213) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-2. 💪 Opened PR [#212](https://github.com/gustavovalverde/zentity/pull/212) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-3. 💪 Opened PR [#211](https://github.com/gustavovalverde/zentity/pull/211) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-4. 💪 Opened PR [#210](https://github.com/gustavovalverde/zentity/pull/210) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-5. 💪 Opened PR [#209](https://github.com/gustavovalverde/zentity/pull/209) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-6. 🎉 Merged PR [#11402](https://github.com/better-auth/better-auth/pull/11402) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. ❌ Closed PR [#10611](https://github.com/better-auth/better-auth/pull/10611) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 💪 Opened PR [#11402](https://github.com/better-auth/better-auth/pull/11402) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. ❌ Closed PR [#17647](https://github.com/vercel/vercel/pull/17647) in [vercel/vercel](https://github.com/vercel/vercel)
-10. 🎉 Merged PR [#231](https://github.com/vercel/vercel-plugin/pull/231) in [vercel/vercel-plugin](https://github.com/vercel/vercel-plugin)
+1. 🗣 Commented on [#11413](https://github.com/better-auth/better-auth/pull/11413#issuecomment-5919934207) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🎉 Merged PR [#11495](https://github.com/better-auth/better-auth/pull/11495) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 🎉 Merged PR [#11494](https://github.com/better-auth/better-auth/pull/11494) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 💪 Opened PR [#11495](https://github.com/better-auth/better-auth/pull/11495) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 💪 Opened PR [#11494](https://github.com/better-auth/better-auth/pull/11494) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. 🔒 Closed issue [#10557](https://github.com/better-auth/better-auth/issues/10557) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. 🎉 Merged PR [#8](https://github.com/gustavovalverde/skills/pull/8) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
+8. 💪 Opened PR [#181](https://github.com/iterativo-git/dockerdoo/pull/181) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+9. 💪 Opened PR [#180](https://github.com/iterativo-git/dockerdoo/pull/180) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+10. 💪 Opened PR [#179](https://github.com/iterativo-git/dockerdoo/pull/179) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
 <!--END_SECTION:activity-->
 
 </details>
