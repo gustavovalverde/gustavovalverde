@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11413](https://github.com/better-auth/better-auth/pull/11413#issuecomment-5919934207) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 🎉 Merged PR [#11495](https://github.com/better-auth/better-auth/pull/11495) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 🎉 Merged PR [#11494](https://github.com/better-auth/better-auth/pull/11494) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 💪 Opened PR [#11495](https://github.com/better-auth/better-auth/pull/11495) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 💪 Opened PR [#11494](https://github.com/better-auth/better-auth/pull/11494) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 🔒 Closed issue [#10557](https://github.com/better-auth/better-auth/issues/10557) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-7. 🎉 Merged PR [#8](https://github.com/gustavovalverde/skills/pull/8) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
-8. 💪 Opened PR [#181](https://github.com/iterativo-git/dockerdoo/pull/181) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-9. 💪 Opened PR [#180](https://github.com/iterativo-git/dockerdoo/pull/180) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
-10. 💪 Opened PR [#179](https://github.com/iterativo-git/dockerdoo/pull/179) in [iterativo-git/dockerdoo](https://github.com/iterativo-git/dockerdoo)
+1. 💪 Opened PR [#11587](https://github.com/ZcashFoundation/zebra/pull/11587) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 💪 Opened PR [#11586](https://github.com/ZcashFoundation/zebra/pull/11586) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 💪 Opened PR [#11585](https://github.com/ZcashFoundation/zebra/pull/11585) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 💪 Opened PR [#11584](https://github.com/ZcashFoundation/zebra/pull/11584) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 💪 Opened PR [#11583](https://github.com/ZcashFoundation/zebra/pull/11583) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. ℹ️ Labeled issue [#11538](https://github.com/better-auth/better-auth/issues/11538) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. ℹ️ Labeled issue [#11538](https://github.com/better-auth/better-auth/issues/11538) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. ℹ️ Labeled issue [#11538](https://github.com/better-auth/better-auth/issues/11538) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+9. ❗ Opened issue [#11538](https://github.com/better-auth/better-auth/issues/11538) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. ℹ️ Labeled issue [#2402](https://github.com/better-auth/better-auth/issues/2402) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 </details>
