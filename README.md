@@ -59,12 +59,12 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11587](https://github.com/ZcashFoundation/zebra/pull/11587) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 🎉 Merged PR [#11602](https://github.com/ZcashFoundation/zebra/pull/11602) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🎉 Merged PR [#11501](https://github.com/ZcashFoundation/zebra/pull/11501) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🎉 Merged PR [#11600](https://github.com/ZcashFoundation/zebra/pull/11600) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🎉 Merged PR [#11506](https://github.com/ZcashFoundation/zebra/pull/11506) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 🔒 Closed issue [#11589](https://github.com/ZcashFoundation/zebra/issues/11589) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 🎉 Merged PR [#11655](https://github.com/better-auth/better-auth/pull/11655) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 🎉 Merged PR [#11658](https://github.com/better-auth/better-auth/pull/11658) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 🎉 Merged PR [#11656](https://github.com/better-auth/better-auth/pull/11656) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 🎉 Merged PR [#11654](https://github.com/better-auth/better-auth/pull/11654) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 🎉 Merged PR [#11669](https://github.com/better-auth/better-auth/pull/11669) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. 💪 Opened PR [#11669](https://github.com/better-auth/better-auth/pull/11669) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 7. 🗣 Commented on [#11565](https://github.com/ZcashFoundation/zebra/pull/11565#issuecomment-6018442787) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 8. 🗣 Commented on [#11494](https://github.com/ZcashFoundation/zebra/pull/11494#issuecomment-6018442369) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 9. 🗣 Commented on [#11516](https://github.com/ZcashFoundation/zebra/pull/11516#issuecomment-6018441885) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
