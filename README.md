@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#295857](https://github.com/odoo/odoo/pull/295857) in [odoo/odoo](https://github.com/odoo/odoo)
-2. 💪 Opened PR [#295856](https://github.com/odoo/odoo/pull/295856) in [odoo/odoo](https://github.com/odoo/odoo)
-3. 💪 Opened PR [#295855](https://github.com/odoo/odoo/pull/295855) in [odoo/odoo](https://github.com/odoo/odoo)
-4. 💪 Opened PR [#11904](https://github.com/better-auth/better-auth/pull/11904) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🗣 Commented on [#51](https://github.com/kushaldas/uppsala/pull/51#issuecomment-6247630646) in [kushaldas/uppsala](https://github.com/kushaldas/uppsala)
-6. 🎉 Merged PR [#5](https://github.com/indexa-labs/dockerdoo/pull/5) in [indexa-labs/dockerdoo](https://github.com/indexa-labs/dockerdoo)
-7. 💪 Opened PR [#5](https://github.com/indexa-labs/dockerdoo/pull/5) in [indexa-labs/dockerdoo](https://github.com/indexa-labs/dockerdoo)
-8. 💪 Opened PR [#295822](https://github.com/odoo/odoo/pull/295822) in [odoo/odoo](https://github.com/odoo/odoo)
-9. 🎉 Merged PR [#4](https://github.com/indexa-labs/dockerdoo/pull/4) in [indexa-labs/dockerdoo](https://github.com/indexa-labs/dockerdoo)
-10. 💪 Opened PR [#4](https://github.com/indexa-labs/dockerdoo/pull/4) in [indexa-labs/dockerdoo](https://github.com/indexa-labs/dockerdoo)
+1. 🗣 Commented on [#11852](https://github.com/ZcashFoundation/zebra/pull/11852#issuecomment-6325555155) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+2. 🎉 Merged PR [#11852](https://github.com/ZcashFoundation/zebra/pull/11852) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+3. 🎉 Merged PR [#11850](https://github.com/ZcashFoundation/zebra/pull/11850) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+4. 🗣 Commented on [#11850](https://github.com/ZcashFoundation/zebra/pull/11850#issuecomment-6323025764) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+5. 💪 Opened PR [#11867](https://github.com/ZcashFoundation/zebra/pull/11867) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+6. 💪 Opened PR [#11866](https://github.com/ZcashFoundation/zebra/pull/11866) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+7. 💪 Opened PR [#11864](https://github.com/ZcashFoundation/zebra/pull/11864) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+8. 🗣 Commented on [#11807](https://github.com/ZcashFoundation/zebra/pull/11807#issuecomment-6319491667) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+9. 💪 Opened PR [#11967](https://github.com/better-auth/better-auth/pull/11967) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+10. ℹ️ Assigned issue [#11859](https://github.com/ZcashFoundation/zebra/issues/11859) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
 <!--END_SECTION:activity-->
 
 </details>
