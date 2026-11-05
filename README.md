@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12148](https://github.com/ZcashFoundation/zebra/pull/12148) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-2. 💪 Opened PR [#12159](https://github.com/ZcashFoundation/zebra/pull/12159) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-3. 🚀 Published release [Zebra 7.1.0-alpha.0](https://github.com/ZcashFoundation/zebra/releases/tag/v7.1.0-alpha.0) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-4. 🎉 Merged PR [#12146](https://github.com/ZcashFoundation/zebra/pull/12146) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-5. 🎉 Merged PR [#12149](https://github.com/ZcashFoundation/zebra/pull/12149) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-6. 💪 Opened PR [#12149](https://github.com/ZcashFoundation/zebra/pull/12149) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-7. 💪 Opened PR [#12148](https://github.com/ZcashFoundation/zebra/pull/12148) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-8. 🎉 Merged PR [#12145](https://github.com/ZcashFoundation/zebra/pull/12145) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-9. 💪 Opened PR [#12146](https://github.com/ZcashFoundation/zebra/pull/12146) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
-10. 💪 Opened PR [#12145](https://github.com/ZcashFoundation/zebra/pull/12145) in [ZcashFoundation/zebra](https://github.com/ZcashFoundation/zebra)
+1. 💪 Opened PR [#34](https://github.com/gustavovalverde/skills/pull/34) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
+2. 🎉 Merged PR [#12249](https://github.com/better-auth/better-auth/pull/12249) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 🎉 Merged PR [#12232](https://github.com/better-auth/better-auth/pull/12232) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+4. 🎉 Merged PR [#12250](https://github.com/better-auth/better-auth/pull/12250) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 🎉 Merged PR [#12244](https://github.com/better-auth/better-auth/pull/12244) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+6. 💪 Opened PR [#12250](https://github.com/better-auth/better-auth/pull/12250) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+7. 💪 Opened PR [#12249](https://github.com/better-auth/better-auth/pull/12249) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+8. 🎉 Merged PR [#33](https://github.com/gustavovalverde/skills/pull/33) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
+9. 💪 Opened PR [#33](https://github.com/gustavovalverde/skills/pull/33) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
+10. 🎉 Merged PR [#32](https://github.com/gustavovalverde/skills/pull/32) in [gustavovalverde/skills](https://github.com/gustavovalverde/skills)
 <!--END_SECTION:activity-->
 
 </details>
