@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#128](https://github.com/ZcashFoundation/zinder/pull/128) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-2. 🎉 Merged PR [#272](https://github.com/gustavovalverde/zentity/pull/272) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-3. 🎉 Merged PR [#12447](https://github.com/better-auth/better-auth/pull/12447) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. 🎉 Merged PR [#12446](https://github.com/better-auth/better-auth/pull/12446) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🎉 Merged PR [#12445](https://github.com/better-auth/better-auth/pull/12445) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-6. 💪 Opened PR [#272](https://github.com/gustavovalverde/zentity/pull/272) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-7. 🎉 Merged PR [#12437](https://github.com/better-auth/better-auth/pull/12437) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-8. 🎉 Merged PR [#12428](https://github.com/better-auth/better-auth/pull/12428) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-9. 🎉 Merged PR [#12443](https://github.com/better-auth/better-auth/pull/12443) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-10. 🎉 Merged PR [#12436](https://github.com/better-auth/better-auth/pull/12436) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 💪 Opened PR [#217](https://github.com/ZcashFoundation/zinder/pull/217) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+2. 💪 Opened PR [#216](https://github.com/ZcashFoundation/zinder/pull/216) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+3. 💪 Opened PR [#215](https://github.com/ZcashFoundation/zinder/pull/215) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+4. 💪 Opened PR [#214](https://github.com/ZcashFoundation/zinder/pull/214) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+5. 🎉 Merged PR [#315](https://github.com/gustavovalverde/zentity/pull/315) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+6. 🎉 Merged PR [#321](https://github.com/gustavovalverde/zentity/pull/321) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+7. 🎉 Merged PR [#318](https://github.com/gustavovalverde/zentity/pull/318) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+8. 🎉 Merged PR [#320](https://github.com/gustavovalverde/zentity/pull/320) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+9. 🎉 Merged PR [#319](https://github.com/gustavovalverde/zentity/pull/319) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+10. 🎉 Merged PR [#314](https://github.com/gustavovalverde/zentity/pull/314) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
 <!--END_SECTION:activity-->
 
 </details>
