@@ -59,16 +59,16 @@
 </div>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#217](https://github.com/ZcashFoundation/zinder/pull/217) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-2. 💪 Opened PR [#216](https://github.com/ZcashFoundation/zinder/pull/216) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-3. 💪 Opened PR [#215](https://github.com/ZcashFoundation/zinder/pull/215) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-4. 💪 Opened PR [#214](https://github.com/ZcashFoundation/zinder/pull/214) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
-5. 🎉 Merged PR [#315](https://github.com/gustavovalverde/zentity/pull/315) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-6. 🎉 Merged PR [#321](https://github.com/gustavovalverde/zentity/pull/321) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-7. 🎉 Merged PR [#318](https://github.com/gustavovalverde/zentity/pull/318) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-8. 🎉 Merged PR [#320](https://github.com/gustavovalverde/zentity/pull/320) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-9. 🎉 Merged PR [#319](https://github.com/gustavovalverde/zentity/pull/319) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
-10. 🎉 Merged PR [#314](https://github.com/gustavovalverde/zentity/pull/314) in [gustavovalverde/zentity](https://github.com/gustavovalverde/zentity)
+1. 🗣 Commented on [#287](https://github.com/ZcashFoundation/zinder/pull/287#issuecomment-6989512970) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+2. 🗣 Commented on [#307](https://github.com/ZcashFoundation/zinder/issues/307#issuecomment-6994466630) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+3. 🔒 Closed issue [#307](https://github.com/ZcashFoundation/zinder/issues/307) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+4. ℹ️ Labeled issue [#313](https://github.com/ZcashFoundation/zinder/issues/313) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+5. ℹ️ Labeled issue [#313](https://github.com/ZcashFoundation/zinder/issues/313) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+6. ℹ️ Labeled issue [#313](https://github.com/ZcashFoundation/zinder/issues/313) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+7. ℹ️ Labeled issue [#313](https://github.com/ZcashFoundation/zinder/issues/313) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+8. ℹ️ Labeled issue [#313](https://github.com/ZcashFoundation/zinder/issues/313) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+9. ❗ Opened issue [#313](https://github.com/ZcashFoundation/zinder/issues/313) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
+10. ℹ️ Labeled issue [#312](https://github.com/ZcashFoundation/zinder/issues/312) in [ZcashFoundation/zinder](https://github.com/ZcashFoundation/zinder)
 <!--END_SECTION:activity-->
 
 </details>
